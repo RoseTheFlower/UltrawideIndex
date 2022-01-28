@@ -32,13 +32,19 @@ Tested on the latest GOG version at 2560x1080 and 3840x1080.
 ![](/screenshots/TheArtfulEscape.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/artfulescape/total?label=downloads&style=flat-square)  (at least 111 on PCGW)
 
-The tool corrects the reduced field of view and removes the black bars affecting 21:9 and wider resolutions, particularly prominent at 32:9 and wider.
-1. [Download the archive](/../../releases/tag/artfulescape) and unpack it.
+The solutions correct the reduced field of view and remove the black bars affecting 21:9 and wider resolutions, particularly prominent at 32:9 and wider.
+
+For Microsoft Store,
+1. [Download the applicable archive](/../../releases/tag/artfulescape) and unpack it.
 2. Launch the game, followed by the tool.
 3. Press the key as instructed to toggle the fix on and off in real time.
 
 All trainers containing CE components may trigger some anti-virus software.
 
-Tested on the latest Game Pass version at 2560x1080 and 5760x1080.
+For Steam and other versions with file access,
+1. [Download the applicable archive](/../../releases/tag/artfulescape) and unpack it.
+2. Place the files in the game folder next to the ArtfulEscape-Win64-Shipping executable.
+
+Tested on the latest Game Pass version at 2560x1080 and 5760x1080. Steam version tested by OnkelJupp at 3440x1440.
 
 You can [buy me a coffee](https://ko-fi.com/rozziroxx) or [become a patron](https://www.patreon.com/rozzi). 
