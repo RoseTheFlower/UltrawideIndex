@@ -7,7 +7,7 @@ The small tool unlocks all resolutions in the game. Unfortunately, the inconsist
 1. [Download the archive](/../../releases/tag/notforbroadcast).
 2. Unpack the patcher and target the files as instructed.
 
-Tested on the latest Steam version at 2560x1080 and 3840x1080. Not recommended for 32:9.
+Tested on the latest Steam version at 2560x1080 and 3840x1080. Not recommended for the latter.
 
 You can [buy me a coffee](https://ko-fi.com/rozziroxx) or [become a patron](https://www.patreon.com/rozzi). 
 
