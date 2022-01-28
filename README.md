@@ -1,3 +1,18 @@
+# Not For Broadcast resolutions unlocker
+![](/screenshots/NotForBroadcast.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/notforbroadcast/total?label=downloads&style=flat-square)
+
+The small tool unlocks all resolutions in the game. Unfortunately, the inconsistent UI scaling of the game will cause some crucial post-level-summary elements to be out of view at 32:9 and wider, resulting in softlocks, which may or may not be bypassed by forcing the game to close with Alt+F4 and resuming. Use at your own discretion.
+
+1. [Download the archive](/../../releases/tag/notforbroadcast).
+2. Unpack the patcher and target the files as instructed.
+
+Tested on the latest Steam version at 2560x1080 and 3840x1080. Not recommended for 32:9.
+
+You can [buy me a coffee](https://ko-fi.com/rozziroxx) or [become a patron](https://www.patreon.com/rozzi). 
+
+---
+
 # Expeditions: Rome ultrawide and wider
 ![](/screenshots/Expeditions%20Rome.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/expeditionsrome/total?label=downloads&style=flat-square)
