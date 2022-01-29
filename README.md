@@ -9,7 +9,7 @@ The small tool unlocks all resolutions in the game. Unfortunately, the inconsist
 
 Tested on the latest Steam version at 2560x1080 and 3840x1080. Not recommended for the latter.
 
-You can [buy me a coffee](https://ko-fi.com/rozziroxx) or [become a patron](https://www.patreon.com/rozzi). 
+You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](https://www.patreon.com/rozzi).
 
 ---
 
@@ -47,4 +47,24 @@ For Steam and other versions with file access,
 
 Tested on the latest Game Pass version at 2560x1080 and 5760x1080. Steam version tested by OnkelJupp at 3440x1440.
 
-You can [buy me a coffee](https://ko-fi.com/rozziroxx) or [become a patron](https://www.patreon.com/rozzi). 
+You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](https://www.patreon.com/rozzi).
+
+---
+
+# R-Type Final 2 ultrawide and wider
+![](/screenshots/R-TypeFinal2.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/rtypefinal2/total?label=downloads&style=flat-square) (at least 144 on PCGW)
+
+The tool removes the side black bars displayed in the game at 21:9 and wider aspect ratios.
+
+Some menu UI scaling and cropping issues are to be expected. For example, some customization decals may be out of view unless the fix is toggled off in real time.
+
+1. [Download](/../../releases/tag/rtypefinal2) and unpack the archive.
+2. Launch the game first, followed by the tool.
+3. Press the hotkey as instructed.
+
+All trainers based on CE components may trigger some anti-virus software.
+
+Tested on the latest GOG version in borderless at 2560x1080, 3840x1080, 5760x1080 and 11520x1080.
+
+You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](https://www.patreon.com/rozzi).
