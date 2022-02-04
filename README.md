@@ -2,7 +2,7 @@
 ![](/screenshots/Dreamscaper.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dreamscapebuw/total?label=downloads&style=flat-square)
 
-The tool removes the side black bars and corrects the vertical field of view reduction at the cutscenes at 21:9 and wider resolutions. 
+The tool removes the side black bars and corrects the vertical field of view reduction at the cutscenes and additional views at 21:9 and wider resolutions. 
 
 1. [Download the archive](/../../releases/tag/dreamscapebuw) for your game version and unpack it.
 2. Launch the game, followed by the tool.
