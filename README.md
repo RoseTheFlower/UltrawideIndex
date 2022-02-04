@@ -1,3 +1,23 @@
+# Dreamscaper better ultrawide and wider
+![](/screenshots/Dreamscaper.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dreamscapebuw/total?label=downloads&style=flat-square)
+
+The tool removes the side black bars and corrects the vertical field of view reduction at the cutscenes at 21:9 and wider resolutions. 
+
+1. [Download the archive](/../../releases/tag/dreamscapebuw) for your game version and unpack it.
+2. Launch the game, followed by the tool.
+3. Press the key as instructed to toggle the fix on and off in real time.
+
+All trainers containing CE components may trigger some anti-virus software.
+
+Tested on the latest Game Pass version at 2560x1080, 3840x1080, and 5760x1080.
+
+The field of view calculation formula implementation was based on killer-m's work.
+
+You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](https://www.patreon.com/rozzi).
+
+---
+
 # Not For Broadcast resolutions unlocker
 ![](/screenshots/NotForBroadcast.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/notforbroadcast/total?label=downloads&style=flat-square)
