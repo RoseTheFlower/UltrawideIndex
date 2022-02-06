@@ -1,3 +1,22 @@
+# Sifu ultrawide and wider
+![](/screenshots/Sifu.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/sifu/total?label=downloads&style=flat-square)
+
+The tool corrects the field of view reduction for perfect vertical parity with 16:9 at 21:9 and wider at every scene, and removes the black bars from the cutscenes. 
+
+1. [Download the archive](/../../releases/tag/sifu) and unpack it.
+2. Go to \Sifu\Binaries\Win64\ in the game folder and rename the Sifu-Win64-Shipping.pdb debug file to Sifu-Win64-Shipping.pdb2 or remove the file altogether to prevent heavy use of system resources.
+3. Launch the game, followed by the tool.
+4. Press the keys as instructed to toggle the fix on and off in real time.
+
+All trainers containing CE components may trigger some anti-virus software.
+
+Tested on the latest Epic Games Store version at 2560x1080, 3840x1080, and 5112x1440. Thanks to Faz for additional testing.
+
+You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](https://www.patreon.com/rozzi).
+
+---
+
 # Dreamscaper better ultrawide and wider
 ![](/screenshots/Dreamscaper.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dreamscapebuw/total?label=downloads&style=flat-square)
