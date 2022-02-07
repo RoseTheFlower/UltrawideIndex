@@ -5,7 +5,7 @@
 The tool corrects the field of view reduction at 21:9 and wider for perfect vertical parity with 16:9 at every scene, and removes the black bars from the cutscenes. It also allows to see and control the field of view at any resolution in real time.
 
 1. Go to \Sifu\Binaries\Win64\ in the game folder and rename the Sifu-Win64-Shipping.pdb debug file to Sifu-Win64-Shipping.pdb.bak or remove the file altogether to prevent heavy use of system resources.
-2. [Download the mod archive](/../../releases/tag/sifu) and unpack it.
+2. [Download the tool archive](/../../releases/tag/sifu) and unpack it.
 4. Launch the game, followed by the tool.
 5. Press the keys as shown.
 
