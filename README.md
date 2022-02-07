@@ -2,12 +2,12 @@
 ![](/screenshots/Sifu.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/sifu/total?label=downloads&style=flat-square)
 
-The tool corrects the field of view reduction for perfect vertical parity with 16:9 at 21:9 and wider at every scene, and removes the black bars from the cutscenes. It also allows to see and control the field of view at any resolution in real time.
+The tool corrects the field of view reduction at 21:9 and wider for perfect vertical parity with 16:9 at every scene, and removes the black bars from the cutscenes. It also allows to see and control the field of view at any resolution in real time.
 
-1. [Download the archive](/../../releases/tag/sifu) and unpack it.
-2. Go to \Sifu\Binaries\Win64\ in the game folder and rename the Sifu-Win64-Shipping.pdb debug file to Sifu-Win64-Shipping.pdb.bak or remove the file altogether to prevent heavy use of system resources.
-3. Launch the game, followed by the tool.
-4. Press the keys as instructed.
+1. Go to \Sifu\Binaries\Win64\ in the game folder and rename the Sifu-Win64-Shipping.pdb debug file to Sifu-Win64-Shipping.pdb.bak or remove the file altogether to prevent heavy use of system resources.
+2. [Download the mod archive](/../../releases/tag/sifu) and unpack it.
+4. Launch the game, followed by the tool.
+5. Press the keys as shown.
 
 All trainers containing CE components may trigger some anti-virus software.
 
