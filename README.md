@@ -2,7 +2,7 @@
 ![](/screenshots/Sifu.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/sifu/total?label=downloads&style=flat-square)
 
-The tool corrects the field of view reduction at 21:9 and wider for perfect vertical parity with 16:9 at every scene, and removes the black bars from the cutscenes. It also allows to see and control the field of view at any resolution in real time.
+The tool corrects the vertical field of view reduction at 21:9 and wider, perfectly matching it to 16:9 at every scene, and removes the black bars from the cutscenes. It also allows to see and control the field of view at any resolution in real time.
 
 1. Go to \Sifu\Binaries\Win64\ in the game folder and rename the Sifu-Win64-Shipping.pdb debug file to Sifu-Win64-Shipping.pdb.bak or remove the file altogether to prevent heavy use of system resources.
 2. [Download the tool archive](/../../releases/tag/sifu) and unpack it.
