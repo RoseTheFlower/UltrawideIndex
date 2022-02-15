@@ -1,3 +1,11 @@
+# Infernax ultrawide and wider
+![](/screenshots/Infernax.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/infernax/total?label=downloads&style=flat-square)
+
+The tool removes the black bars that appear in the game at 21:9 and wider resolutions. Unfortunately, the background images and some of the other assets of the game are intended for 16:9 and do not have enough width to span, so there is not going to be anything to fill the void in the affected areas.
+
+* [Download page and instructions](/../../releases/tag/infernax)
+
 # Sifu ultrawide and wider
 ![](/screenshots/Sifu.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/sifu/total?label=downloads&style=flat-square)
