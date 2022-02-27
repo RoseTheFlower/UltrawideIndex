@@ -52,6 +52,15 @@ The solutions correct the reduced field of view and remove the black bars affect
 * [Download page and instructions](/../../releases/tag/artfulescape)
 
 
+# Lake ultrawide and wider
+![](/screenshots/Lake.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/lake/total?label=downloads%20after%2059%20on%20PCGW&style=flat-square)
+
+A tool to remove the side black bars and correct the field of view reduction at 21:9 and wider resolutions in the game.
+
+* [Download page and instructions](/../../releases/tag/lake)
+
+
 # R-Type Final 2 ultrawide and wider
 ![](/screenshots/R-TypeFinal2.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/rtypefinal2/total?label=downloads%20after%20144%20on%20PCGW&style=flat-square)
