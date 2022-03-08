@@ -1,3 +1,12 @@
+# Combat Wings: Battle of Britain widescreen and wider
+![](/screenshots/CombatWingsBoB.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/combatwingsbob/total?label=downloads&style=flat-square)
+
+A small patcher to remove the black bars from the game at 16:9 and wider.
+
+* [Download page and instructions](/../../releases/tag/combatwingsbob)
+
+
 # Infernax ultrawide and wider
 ![](/screenshots/Infernax.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/infernax/total?label=downloads&style=flat-square)
