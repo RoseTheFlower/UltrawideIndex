@@ -1,3 +1,12 @@
+# Young Souls ultrawide and wider
+![](/screenshots/YoungSouls.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/youngsouls/total?label=downloads&style=flat-square)
+
+A small patcher to unlock all resolutions and remove the black bars from 21:9 and wider.
+
+* [Download page and instructions](/../../releases/tag/youngsouls)
+
+
 # Combat Wings: Battle of Britain widescreen and wider
 ![](/screenshots/CombatWingsBoB.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/combatwingsbob/total?label=downloads&style=flat-square)
