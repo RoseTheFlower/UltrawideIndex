@@ -1,6 +1,6 @@
 <div align="center"
 
-There is no other work I do other than that for the PC community, and particularly the widescreen gaming community.
+There is no work I do other than that for the PC community, and particularly the widescreen gaming community.
 
 Your support would be super helpful in making the hard work more sustainable. There are multiple ways to donate to help me out.
 
