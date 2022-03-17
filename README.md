@@ -1,3 +1,12 @@
+# Tunic ultrawide and wider
+![](/screenshots/Tunic.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/tunic/total?label=downloads&style=flat-square)
+
+The small patcher enables ultrawide resolutions and removes the black bars from the game at 21:9 and wider.
+
+* [Download page and instructions](/../../releases/tag/tunic)
+
+
 # The Sexy Brutale ultrawide and wider 
 ![](/screenshots/TheSexyBrutale.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/thesexybrutale/total?label=downloads&style=flat-square)
@@ -5,6 +14,7 @@
 The patcher for ultrawide and wider addresses the lack of resolution options and corrects the UI scaling which resulted in cropping at 21:9 and caused the game to be unplayable at 32:9 and wider.
 
 * [Download page and instructions](/../../releases/tag/thesexybrutale)
+
 
 # Young Souls ultrawide and wider
 ![](/screenshots/YoungSouls.jpg)
