@@ -1,3 +1,12 @@
+#  Far Cry 5 FOV
+![](/screenshots/FarCry5.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/farcry5/total?label=downloads&style=flat-square)
+
+The solution increases the maximum field of view limit of 120 in the game and removes the FOV decrease at all interactions. It also removes the black bars from the cutscenes at 21:9 and wider.
+
+* [Download page and instructions](/../../releases/tag/farcry5)
+
+
 # Tunic ultrawide and wider
 ![](/screenshots/Tunic.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/tunic/total?label=downloads&style=flat-square)
