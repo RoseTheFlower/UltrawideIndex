@@ -1,4 +1,4 @@
-#  Death Stranding Director's Cut ultrawide and field of view
+#  Death Stranding Director's Cut ultrawide and FOV tweaks
 ![](/screenshots/DeathStrandingDC.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/deathstranding/total?label=downloads&style=flat-square)
 
@@ -7,7 +7,7 @@ The solution allows to modify the field of view at any resolution in real time, 
 * [Download page and instructions](/../../releases/tag/deathstranding)
 
 
-#  Far Cry 5 field of view
+#  Far Cry 5 field of view tweaks
 ![](/screenshots/FarCry5.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/farcry5/total?label=downloads&style=flat-square)
 
