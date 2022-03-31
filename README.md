@@ -1,4 +1,13 @@
-#  Far Cry 5 FOV
+#  Death Stranding Director's Cut ultrawide and field of view
+![](/screenshots/DeathStrandingDC.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/deathstranding/total?label=downloads&style=flat-square)
+
+The solution allows to modify the field of view at any resolution in real time, remove the zoom from the FMVs, and correct the aspect ratio at anything wider than the exact ratio of 21:9.
+
+* [Download page and instructions](/../../releases/tag/deathstranding)
+
+
+#  Far Cry 5 field of view
 ![](/screenshots/FarCry5.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/farcry5/total?label=downloads&style=flat-square)
 
