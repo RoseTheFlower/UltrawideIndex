@@ -1,4 +1,13 @@
-#  Death Stranding Director's Cut ultrawide and FOV tweaks
+# Manhunt 2 widescreen and FOV tweaks
+![](/screenshots/Manhunt2.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/manhunt2/total?label=downloads&style=flat-square)
+
+The tool corrects the global issues of stretching and cutscenes field of view reduction affecting 16:9 and, more prominently, 21:9 and wider resolutions. It works in real time for any resolution and also allows to adjust the field of view to preference on the fly.
+
+* [Download page and instructions](/../../releases/tag/manhunt2)
+
+
+# Death Stranding Director's Cut ultrawide and FOV tweaks
 ![](/screenshots/DeathStrandingDC.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/deathstranding/total?label=downloads&style=flat-square)
 
@@ -7,7 +16,7 @@ The solution allows to modify the field of view at any resolution in real time, 
 * [Download page and instructions](/../../releases/tag/deathstranding)
 
 
-#  Far Cry 5 field of view tweaks
+# Far Cry 5 field of view tweaks
 ![](/screenshots/FarCry5.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/farcry5/total?label=downloads&style=flat-square)
 
