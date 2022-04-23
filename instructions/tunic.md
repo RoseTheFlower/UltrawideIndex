@@ -1,4 +1,4 @@
-Additional things to try for an older version of Tunic:
+Additional things to try for an older version of [Tunic](/../../releases/tag/tunic):
 
 * For Microsoft Store, download the Tunic.ultrawide.v1.1.MS.Store.Game.Pass patcher and patch both files as guided by the tool.
 
