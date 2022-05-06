@@ -1,3 +1,12 @@
+# Trek to Yomi super ultrawide and wider
+![](/screenshots/TrekToYomi.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/trektoyomi/total?label=downloads&style=flat-square)
+
+The solution removes the black bars and dynamically corrects the field of view at 32:9 and wider, achieving perfect vertical parity with 16:9 at each scene.
+
+* [Download page and instructions](/../../releases/tag/trektoyomi)
+
+
 # Manhunt 2 widescreen and FOV tweaks
 ![](/screenshots/Manhunt2.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/manhunt2/total?label=downloads&style=flat-square)
