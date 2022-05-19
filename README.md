@@ -1,4 +1,4 @@
-# Vampire: The Masquerade – Swansong ultrawide and wider
+# Vampire: The Masquerade - Swansong ultrawide & wider
 ![](/screenshots/Swansong.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/swansong/total?label=downloads&style=flat-square)
 
