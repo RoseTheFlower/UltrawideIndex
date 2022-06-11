@@ -1,3 +1,12 @@
+# The Quarry ultrawide and wider
+![](/screenshots/TheQuarry.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/thequarry/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from every scene at 21:9 and wider, maintaining the original vertical field of view.
+
+* [Download page and instructions](/../../releases/tag/thequarry)
+
+
 # Vampire: The Masquerade - Swansong ultrawide & wider
 ![](/screenshots/Swansong.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/swansong/total?label=downloads&style=flat-square)
