@@ -119,7 +119,7 @@ The tool removes the side black bars and corrects the vertical field of view red
 ![](/screenshots/NotForBroadcast.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/notforbroadcast/total?label=downloads&style=flat-square)
 
-The small tool unlocks all resolutions in the game.
+The small tool unlocks wide resolutions in the game, removing the black bars and correcting the UI for 21:9 and wider.
 
 * [Download page and instructions](/../../releases/tag/notforbroadcast)
 
