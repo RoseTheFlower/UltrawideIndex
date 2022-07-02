@@ -11,7 +11,7 @@ The solution removes the black bars from every scene at 21:9 and wider, maintain
 ![](/screenshots/Swansong.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/swansong/total?label=downloads&style=flat-square)
 
-The solution removes the black bars and dynamically corrects the field of view reduction at 21:9 and wider, achieving perfect vertical parity with 16:9 at each scene.
+The solution removes the black bars from the cutscenes, dialogue, menu and other screens, and dynamically corrects the field of view discrepancies at 21:9 and wider, achieving perfect vertical parity with 16:9 at each scene.
 
 * [Download page and instructions](/../../releases/tag/swansong)
 
