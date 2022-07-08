@@ -2,7 +2,7 @@
 ![](/screenshots/DungeonOfTheEndless.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dungeonote/total?label=downloads&style=flat-square)
 
-The small patcher removes the stretching of the gameplay view affecting 21:9 and wider resolutions.
+The small patcher corrects the stretching of the gameplay view affecting 21:9 and wider resolutions.
 
 * [Download page and instructions](/../../releases/tag/dungeonote)
 
