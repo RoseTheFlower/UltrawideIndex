@@ -1,3 +1,12 @@
+#  Dungeon of the Endless ultrawide and wider
+![](/screenshots/DungeonOfTheEndless.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dungeonote/total?label=downloads&style=flat-square)
+
+The small patcher removes the stretching of the gameplay view affecting 21:9 and wider resolutions.
+
+* [Download page and instructions](/../../releases/tag/dungeonote)
+
+
 # The Quarry ultrawide and wider
 ![](/screenshots/TheQuarry.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/thequarry/total?label=downloads&style=flat-square)
@@ -56,7 +65,7 @@ The solution increases the maximum field of view limit of 120 in the game and re
 ![](/screenshots/Tunic.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/tunic/total?label=downloads&style=flat-square)
 
-The small patcher enables ultrawide resolutions and removes the black bars from the game at 21:9 and wider.
+The small patcher removes the black bars from the game at 21:9 and wider.
 
 * [Download page and instructions](/../../releases/tag/tunic)
 
