@@ -1,4 +1,13 @@
-#  Dungeon of the Endless ultrawide and wider
+# As Dusk Falls ultrawide and wider
+![](/screenshots/AsDuskFalls.jpg)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/asduskfalls/total?label=downloads&style=flat-square)
+
+The solution removes the  black bars from the game at 21:9 and wider resolutions.
+
+* [Download page and instructions](/../../releases/tag/asduskfalls)
+
+
+# Dungeon of the Endless ultrawide and wider
 ![](/screenshots/DungeonOfTheEndless.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dungeonote/total?label=downloads&style=flat-square)
 
@@ -168,6 +177,7 @@ The tool removes the side black bars displayed in the game at 21:9 and wider asp
 
 * [Download page and instructions](/../../releases/tag/rtypefinal2)
 
+
 # Other solutions
 
-The biggest list is available [here](https://ko-fi.com/rozziroxx/gallery).
+The biggest collection is available [here](https://ko-fi.com/rozziroxx/gallery).
