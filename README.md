@@ -1,3 +1,12 @@
+# Boyfriend Dungeon ultrawide and wider 
+![](/screenshots/BoyfriendDungeon.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/bfdungeon/total?label=downloads&style=flat-square)
+
+The small patcher removes the black bars from the game at 21:9 and wider resolutions.
+
+* [Download page and instructions](/../../releases/tag/bfdungeon)
+
+
 # As Dusk Falls ultrawide and wider
 ![](/screenshots/AsDuskFalls.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/asduskfalls/total?label=downloads&style=flat-square)
