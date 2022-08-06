@@ -178,6 +178,12 @@ The tool removes the side black bars displayed in the game at 21:9 and wider asp
 * [Download page and instructions](/../../releases/tag/rtypefinal2)
 
 
+# Terminator: Resistance better ultrawide & FOV changer
+The tool allows to control the field of view in real time and also corrects it at the cutscenes, dialogue and aiming down the sights for 21:9 and wider resolutions.
+
+* [Download page and instructions](/../../releases/tag/terminatorresistance)
+
+
 # Other solutions
 
 The biggest collection is available [here](https://ko-fi.com/rozziroxx/gallery).
