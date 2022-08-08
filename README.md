@@ -1,3 +1,12 @@
+# Endling - Extinction is Forever ultrawide and wider
+![](/screenshots/Endling.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/endling/total?label=downloads&style=flat-square)
+
+The solution dynamically corrects the field of view reduction at 21:9 and wider resolutions, achieving perfect vertical parity with 16:9 at each scene.
+
+* [Download page and instructions](/../../releases/tag/endling)
+
+
 # Boyfriend Dungeon ultrawide and wider 
 ![](/screenshots/BoyfriendDungeon.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/bfdungeon/total?label=downloads&style=flat-square)
