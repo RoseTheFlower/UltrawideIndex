@@ -1,3 +1,12 @@
+# Lost in Play black bars removal
+![](/screenshots/LostInPlay.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/lostinplay/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the game at ultrawide resolutions. As an option, it allows to remove the letterboxing from the cutscenes at any aspect ratio.
+
+* [Download page and instructions](/../../releases/tag/lostinplay)
+
+
 # Endling - Extinction is Forever ultrawide and wider
 ![](/screenshots/Endling.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/endling/total?label=downloads&style=flat-square)
