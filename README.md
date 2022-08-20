@@ -1,3 +1,12 @@
+# Path of Exile ultrawide and wider
+![](/screenshots/PathOfExile.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/pathofexile/total?label=downloads&style=flat-square)
+
+The solution returns the game to its former glory of having no black bars in ultrawide and wider.
+
+* [Download page and instructions](/../../releases/tag/pathofexile)
+
+
 # Lost in Play black bars removal
 ![](/screenshots/LostInPlay.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/lostinplay/total?label=downloads&style=flat-square)
