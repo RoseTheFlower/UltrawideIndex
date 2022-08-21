@@ -1,3 +1,12 @@
+# South of the Circle ultrawide and wider
+![](/screenshots/SouthOfTheCircle.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/southofthecircle/total?label=downloads&style=flat-square)
+
+The small patcher removes the black bars from the game at 21:9 and wider resolutions and unlocks the resolution selection and windowed mode options in the settings.
+
+* [Download page and instructions](/../../releases/tag/southofthecircle)
+
+
 # Path of Exile ultrawide and wider
 ![](/screenshots/PathOfExile.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/pathofexile/total?label=downloads&style=flat-square)
