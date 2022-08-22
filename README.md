@@ -11,7 +11,7 @@ The small patcher removes the black bars from the game at 21:9 and wider resolut
 ![](/screenshots/PathOfExile.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/pathofexile/total?label=downloads&style=flat-square)
 
-The solution returns the game to its former glory of having no black bars in ultrawide and wider.
+The solution returns the game to its former glory of having no black bars at resolutions wider than 21:9.
 
 * [Download page and instructions](/../../releases/tag/pathofexile)
 
