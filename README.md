@@ -7,7 +7,7 @@ The small patcher removes the black bars from the game at 21:9 and wider resolut
 * [Download page and instructions](/../../releases/tag/southofthecircle)
 
 
-# Path of Exile ultrawide and wider
+# Path of Exile super ultrawide and wider
 ![](/screenshots/PathOfExile.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/pathofexile/total?label=downloads&style=flat-square)
 
