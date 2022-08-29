@@ -1,3 +1,12 @@
+# Gibbon: Beyond the Trees ultrawide and wider
+![](/screenshots/GibbonBeyondTheTrees.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gibbon/total?label=downloads&style=flat-square)
+
+The solution forces the game to support 21:9 and wider resolutions.
+
+* [Download page and instructions](/../../releases/tag/gibbon)
+
+
 # Road 96 FOV changer
 ![](/screenshots/Road96.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/road96/total?label=downloads&style=flat-square)
