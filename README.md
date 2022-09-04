@@ -1,3 +1,12 @@
+# Mafia: Definitive Edition ultrawide cutscenes
+![](/screenshots/MafiaDE.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/mafiade/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the rendered cutscenes in the game.
+
+* [Download page and instructions](/../../releases/tag/mafiade)
+
+
 # Gibbon: Beyond the Trees ultrawide and wider
 ![](/screenshots/GibbonBeyondTheTrees.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gibbon/total?label=downloads&style=flat-square)
