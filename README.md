@@ -1,3 +1,12 @@
+# Destroy All Humans! 2 - Reprobed ultrawide cutscenes
+![](/screenshots/DestroyAllHumans2.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/destroyallhumans2/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the rendered cutscenes and dialogue scenes in the game while perfectly preserving their vertical field of view.
+
+* [Download page and instructions](/../../releases/tag/destroyallhumans2)
+
+
 # Mafia: Definitive Edition ultrawide cutscenes
 ![](/screenshots/MafiaDE.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/mafiade/total?label=downloads&style=flat-square)
