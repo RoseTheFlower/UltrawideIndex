@@ -1,3 +1,12 @@
+# Disney Dreamlight Valley ultrawide and wider
+![](/screenshots/DreamlightValley.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dreamlightvalley/total?label=downloads&style=flat-square)
+
+The solution forces the game to support 21:9 and wider resolutions without breaking the user interface.
+
+* [Download page and instructions](/../../releases/tag/dreamlightvalley)
+
+
 # Destroy All Humans! 2 - Reprobed ultrawide cutscenes
 ![](/screenshots/DestroyAllHumans2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/destroyallhumans2/total?label=downloads&style=flat-square)
