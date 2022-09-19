@@ -2,7 +2,7 @@
 ![](/screenshots/ReturnToMonkeyIsland.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/rtmonkeyisland/total?label=downloads&style=flat-square)
 
-The solution removes the black bars from game at 21:9 and wider as far as possible within the limitations of its static backgrounds.
+The solution removes the black bars from the game at 21:9 and wider as far as possible within the limitations of its static backgrounds.
 
 * [Download page and instructions](/../../releases/tag/rtmonkeyisland)
 
