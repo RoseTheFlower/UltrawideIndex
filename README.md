@@ -1,3 +1,12 @@
+#  Beacon Pines ultrawide and wider
+![](/screenshots/BeaconPines.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/beaconpines/total?label=downloads&style=flat-square)
+
+The solution enables the game to support 21:9 and wider resolutions without any vertical black bars.
+
+* [Download page and instructions](/../../releases/tag/beaconpines)
+
+
 # Return to Monkey Island ultrawide
 ![](/screenshots/ReturnToMonkeyIsland.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/rtmonkeyisland/total?label=downloads&style=flat-square)
