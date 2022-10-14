@@ -1,4 +1,13 @@
-#  Beacon Pines ultrawide and wider
+# Scorn ultrawide and wider
+![](/screenshots/Scorn.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/scorn/total?label=downloads&style=flat-square)
+
+The solution corrects the field of view reduction at the gameplay, cutscenes and menu at 21:9 and wider resolutions.
+
+* [Download page and instructions](/../../releases/tag/scorn)
+
+
+# Beacon Pines ultrawide and wider
 ![](/screenshots/BeaconPines.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/beaconpines/total?label=downloads&style=flat-square)
 
