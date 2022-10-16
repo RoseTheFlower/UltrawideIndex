@@ -1,3 +1,12 @@
+# The Walking Dead Season One ultrawide & wider (Microsoft Store)
+![](/screenshots/TheWalkingDead.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/thewalkingdead/total?label=downloads&style=flat-square)
+
+The solution specific to Microsoft Store and Game Pass removes the black bars that appear in the game at 21:9 and wider resolutions.
+
+* [Download page and instructions](/../../releases/tag/thewalkingdead)
+
+
 # Scorn ultrawide and wider
 ![](/screenshots/Scorn.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/scorn/total?label=downloads&style=flat-square)
