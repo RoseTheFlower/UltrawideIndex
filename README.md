@@ -7,11 +7,11 @@ The solution removes the black bars that appear in the game at 48:9 or other res
 * [Download page and instructions](/../../releases/tag/plaguerequiem)
 
 
-# The Walking Dead Season One ultrawide & wider (Microsoft Store)
+# The Walking Dead ultrawide & wider (Microsoft Store)
 ![](/screenshots/TheWalkingDead.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/thewalkingdead/total?label=downloads&style=flat-square)
 
-The solution specific to Microsoft Store and Game Pass removes the black bars that appear in the game at 21:9 and wider resolutions.
+The solution for the first season of the game, specific to Microsoft Store and Game Pass, removes the black bars that appear at 21:9 and wider resolutions.
 
 * [Download page and instructions](/../../releases/tag/thewalkingdead)
 
