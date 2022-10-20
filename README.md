@@ -1,3 +1,12 @@
+# Uncharted ultrawide and wider
+![](/screenshots/Uncharted.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/uncharted/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the cutscenes at 21:9 and wider, and from the gameplay at anything wider than 32:9.
+
+* [Download page and instructions](/../../releases/tag/uncharted)
+
+
 # Torchlight Infinite ultrawide and wider
 ![](/screenshots/TorchlightInfinite.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/torchlightinfinite/total?label=downloads&style=flat-square)
