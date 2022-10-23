@@ -1,3 +1,12 @@
+# Gotham Knights ultrawide cutscenes
+![](/screenshots/GothamKnights.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gothamknights/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the cutscenes and menus at 21:9 and wider resolutions while preserving the vertical field of view.
+
+* [Download page and instructions](/../../releases/tag/gothamknights)
+
+
 # Uncharted ultrawide and wider
 ![](/screenshots/Uncharted.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/uncharted/total?label=downloads&style=flat-square)
