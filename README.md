@@ -287,7 +287,6 @@ The tool corrects the vertical field of view reduction at 21:9 and wider, perfec
 
 
 # Dreamscaper better ultrawide and wider
-![](/screenshots/Dreamscaper.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dreamscapebuw/total?label=downloads&style=flat-square)
 
 The tool removes the side black bars and corrects the vertical field of view reduction at the cutscenes and additional views at 21:9 and wider resolutions.
@@ -296,7 +295,6 @@ The tool removes the side black bars and corrects the vertical field of view red
 
 
 # Not For Broadcast resolutions unlocker
-![](/screenshots/NotForBroadcast.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/notforbroadcast/total?label=downloads&style=flat-square)
 
 The small tool unlocks wide resolutions in the game, removing the black bars and correcting the UI for 21:9 and wider.
@@ -305,7 +303,6 @@ The small tool unlocks wide resolutions in the game, removing the black bars and
 
 
 # Expeditions: Rome ultrawide and wider
-![](/screenshots/Expeditions%20Rome.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/expeditionsrome/total?label=downloads&style=flat-square)
 
 The solution removes the artistic side bars that appear at the menu screens, cutscenes and gameplay at 32:9 and wider, and to a lesser extent at 21:9.
@@ -313,30 +310,30 @@ The solution removes the artistic side bars that appear at the menu screens, cut
 * [Download page and instructions](/../../releases/tag/expeditionsrome)
 
 
-# The Artful Escape ultrawide and wider
+# Other solutions
+## The Artful Escape ultrawide and wider
 The solutions correct the reduced field of view and remove the black bars affecting 21:9 and wider resolutions, particularly prominent at 32:9 and wider.
 
 * [Download page and instructions](/../../releases/tag/artfulescape)
 
 
-# Lake ultrawide and wider
+## Lake ultrawide and wider
 A tool to remove the side black bars and correct the field of view reduction at 21:9 and wider resolutions in the game.
 
 * [Download page and instructions](/../../releases/tag/lake)
 
 
-# R-Type Final 2 ultrawide and wider
+## R-Type Final 2 ultrawide and wider
 The tool removes the side black bars displayed in the game at 21:9 and wider aspect ratios.
 
 * [Download page and instructions](/../../releases/tag/rtypefinal2)
 
 
-# Terminator: Resistance better ultrawide & FOV changer
+## Terminator: Resistance better ultrawide & FOV changer
 The tool allows to control the field of view in real time and also corrects it at the cutscenes, dialogue and aiming down the sights for 21:9 and wider resolutions.
 
 * [Download page and instructions](/../../releases/tag/terminatorresistance)
 
 
-# Other solutions
-
+## More
 The biggest collection is available [here](https://ko-fi.com/rozziroxx/gallery).
