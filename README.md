@@ -1,3 +1,12 @@
+# The Evil Within 2 field of view improvements
+![](/screenshots/TheEvilWithin2.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/evilwithin2/total?label=downloads&style=flat-square)
+
+The tool allows to control the field of view in real time and exceed the in-game limit of 90, which is often lowered by the game. As a bonus, it contains a fix for the black bars at the cutscenes in ultrawide, which works for any aspect ratio and game version.
+
+* [Download page and instructions](/../../releases/tag/evilwithin2)
+
+
 # Gotham Knights ultrawide cutscenes
 ![](/screenshots/GothamKnights.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gothamknights/total?label=downloads&style=flat-square)
