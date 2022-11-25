@@ -1,3 +1,12 @@
+# Gungrave G.O.R.E ultrawide and wider
+![](/screenshots/GungraveGORE.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gungravegore/total?label=downloads&style=flat-square)
+
+The solution removes the black bars at 21:9 and wider resolutions while preserving the field of view for perfect vertical parity with 16:9.
+
+* [Download page and instructions](/../../releases/tag/gungravegore)
+
+
 # The Evil Within 2 field of view improvements
 ![](/screenshots/TheEvilWithin2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/evilwithin2/total?label=downloads&style=flat-square)
