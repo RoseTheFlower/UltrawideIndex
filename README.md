@@ -1,3 +1,12 @@
+# Hello Neighbor 2 ultrawide and wider
+![](/screenshots/HelloNeighbor2.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/helloneighbor2/total?label=downloads&style=flat-square)
+
+The solution corrects the field of view reduction at 21:9 and wider resolutions, vertically matching 16:9. It also removes black bars from the cutscenes.
+
+* [Download page and instructions](/../../releases/tag/helloneighbor2)
+
+
 # Gungrave G.O.R.E ultrawide and wider
 ![](/screenshots/GungraveGORE.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gungravegore/total?label=downloads&style=flat-square)
