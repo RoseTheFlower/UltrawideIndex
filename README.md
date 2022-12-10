@@ -1,3 +1,12 @@
+# Saints Row IV ultrawide cutscenes
+![](/screenshots/SaintsRow4.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/saintsrow4/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the cutscenes at 21:9 and wider and corrects their field of view to match 16:9.
+
+* [Download page and instructions](/../../releases/tag/saintsrow4)
+
+
 # Hello Neighbor 2 ultrawide and wider
 ![](/screenshots/HelloNeighbor2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/helloneighbor2/total?label=downloads&style=flat-square)
