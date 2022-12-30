@@ -1,3 +1,13 @@
+# Chained Echoes ultrawide
+![](/screenshots/ChainedEchoes.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/chainedechoes/total?label=downloads&style=flat-square)
+
+The mod offers many fixes made to enable the game to support ultrawide and wider resolutions without black bars.
+
+* [Download page and instructions](/../../releases/tag/chainedechoes)
+
+
+
 # High on Life FOV changer
 ![](/screenshots/HighOnLife.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/highonlife/total?label=downloads&style=flat-square)
@@ -5,7 +15,6 @@
 The tool allows to see and control the field of view in real time.
 
 * [Download page and instructions](/../../releases/tag/highonlife)
-
 
 
 # Saints Row IV ultrawide cutscenes
