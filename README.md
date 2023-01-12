@@ -1,3 +1,12 @@
+# Far Cry 4 ultrawide and wider
+![](/screenshots/FarCry4.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/farcry4/total?label=downloads&style=flat-square)
+
+The solution enables the in-game field of view slider at ultrawide resolutions.
+
+* [Download page and instructions](/../../releases/tag/farcry4)
+
+
 # Chained Echoes ultrawide
 ![](/screenshots/ChainedEchoes.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/chainedechoes/total?label=downloads&style=flat-square)
@@ -5,7 +14,6 @@
 The mod offers many fixes made to enable the game to support ultrawide and wider resolutions without black bars.
 
 * [Download page and instructions](/../../releases/tag/chainedechoes)
-
 
 
 # High on Life FOV changer
