@@ -79,15 +79,6 @@ The solution removes the black bars from the cutscenes at 21:9 and wider, and fr
 * [Download page and instructions](/../../releases/tag/uncharted)
 
 
-# Torchlight Infinite ultrawide and wider
-![](/screenshots/TorchlightInfinite.webp)
-![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/torchlightinfinite/total?label=downloads&style=flat-square)
-
-The solution corrects the vertical field of view reduction at 21:9 and wider, also removing the black bars present at some scenes.
-
-* [Download page and instructions](/../../releases/tag/torchlightinfinite)
-
-
 # A Plague Tale: Requiem multi-monitor
 ![](/screenshots/APlagueTaleRequiem.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/plaguerequiem/total?label=downloads&style=flat-square)
