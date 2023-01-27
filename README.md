@@ -1,3 +1,12 @@
+# We Are OFK ultrawide
+![](/screenshots/WeAreOFK.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/weareofk/total?label=downloads&style=flat-square)
+
+The mod offers many fixes made to enable the game to support ultrawide resolutions without black bars. It also unlocks the FPS from 30.
+
+* [Download page and instructions](/../../releases/tag/weareofk)
+
+
 # Far Cry 4 ultrawide and wider
 ![](/screenshots/FarCry4.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/farcry4/total?label=downloads&style=flat-square)
