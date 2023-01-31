@@ -1,3 +1,12 @@
+# Valfaris ultrawide and wider
+![](/screenshots/Valfaris.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/valfaris/total?label=downloads&style=flat-square)
+
+The solution enables the game to support 21:9 and wider resolutions without vertical black bars.
+
+* [Download page and instructions](/../../releases/tag/valfaris)
+
+
 # We Are OFK ultrawide
 ![](/screenshots/WeAreOFK.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/weareofk/total?label=downloads&style=flat-square)
