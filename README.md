@@ -1,3 +1,12 @@
+# The Light in the Darkness ultrawide and wider
+![](/screenshots/TheLightInTheDarkness.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/tlitd/total?label=downloads&style=flat-square)
+
+The solution removes the black bars that appear in the game at 21:9 and wider resolutions.
+
+* [Download page and instructions](/../../releases/tag/tlitd)
+
+
 # Valfaris ultrawide and wider
 ![](/screenshots/Valfaris.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/valfaris/total?label=downloads&style=flat-square)
