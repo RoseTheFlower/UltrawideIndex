@@ -350,7 +350,6 @@ A small patcher to remove the black bars from the game at 16:9 and wider.
 
 
 # Infernax ultrawide and wider
-![](/screenshots/Infernax.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/infernax/total?label=downloads&style=flat-square)
 
 The tool removes the black bars that appear in the game at 21:9 and wider resolutions.
@@ -359,7 +358,6 @@ The tool removes the black bars that appear in the game at 21:9 and wider resolu
 
 
 # Sifu ultrawide and wider
-![](/screenshots/Sifu.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/sifu/total?label=downloads&style=flat-square)
 
 The tool corrects the vertical field of view reduction at 21:9 and wider, perfectly matching to 16:9 at every scene, and removes the black bars from the cutscenes. It also allows to see and control the field of view at any resolution in real time.
