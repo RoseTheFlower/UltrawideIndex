@@ -1,3 +1,12 @@
+# RAGE 2 ultrawide and wider
+![](/screenshots/RAGE2.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/rage2/total?label=downloads&style=flat-square)
+
+The tool allows to remove the vertical black bars from the cutscenes at 21:9 and wider resolutions.
+
+* [Download page and instructions](/../../releases/tag/rage2)
+
+
 # The Light in the Darkness ultrawide and wider
 ![](/screenshots/TheLightInTheDarkness.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/tlitd/total?label=downloads&style=flat-square)
