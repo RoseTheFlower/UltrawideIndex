@@ -1,3 +1,12 @@
+# The Outer Worlds SCE widescreen and wider
+![](/screenshots/TheOuterWorldsSCE.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/outerworldssce/total?label=downloads&style=flat-square)
+
+The solution for The Outer Worlds: Spacer’s Choice Edition removes the black bars from the cutscenes and dialogue at any affected resolution. It also corrects the field of view and weapons model at 21:9 and wider.
+
+* [Download page and instructions](/../../releases/tag/outerworldssce)
+
+
 # RAGE 2 ultrawide and wider
 ![](/screenshots/RAGE2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/rage2/total?label=downloads&style=flat-square)
