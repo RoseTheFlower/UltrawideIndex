@@ -407,6 +407,102 @@ The solution removes the artistic side bars that appear at the menu screens, cut
 * [Download page and instructions](/../../releases/tag/expeditionsrome)
 
 
+# Assassin's Creed Syndicate ultrawide cutscenes
+![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/ACSyndicateUltrawide/total?style=flat-square)
+
+The tool removes the side black bars from the real-time cutscenes of the game, as seen in its earlier versions.
+
+* [Download page and instructions](/../../../ACSyndicateUltrawide#readme)
+
+
+# Bright Memory: Infinite ultrawide and wider
+![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/BrightMemoryInfiniteUltrawide/total?style=flat-square)
+
+The solution addresses the vertical field of view reduction at the cutscenes at 21:9 and wider resolutions.
+
+* [Download page and instructions](/../../../BrightMemoryInfiniteUltrawide#readme)
+
+
+# Gods Will Fall ultrawide and wider
+![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/GodsWillFallUltrawide/total?style=flat-square)
+
+The small patcher removes the side black bars from the game at 21:9 and wider resolutions.
+
+* [Download page and instructions](/../../../GodsWillFallUltrawide#readme)
+
+
+# Omikron: The Nomad Soul widescreen and wider
+![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/OmikronTheNomadSoulWide/total?style=flat-square)
+
+Experience the first Quantic Dream game in proper widescreen for the first time since 1999.
+
+* [Download page and instructions](/../../../OmikronTheNomadSoulWide#readme)
+
+
+# The Pedestrian ultrawide and wider
+![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/ThePedestrianUltrawide/total?style=flat-square)
+
+The tool removes the side black bars present in the game at 21:9 and wider resolutions.
+
+* [Download page and instructions](/../../../ThePedestrianUltrawide#readme)
+
+
+# MX vs. ATV Reflex ultrawide and wider
+![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/MXvsATVReflexUltrawide/total?style=flat-square)
+
+The patchers remove the side black bars from the game at 21:9, 32:9, and 48:9 resolutions.
+
+* [Download page and instructions](/../../../MXvsATVReflexUltrawide#readme)
+
+
+# The Gunk ultrawide and wider
+![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/TheGunkUltrawide/total?style=flat-square)
+
+The tool corrects the field of view decrease affecting 21:9 and wider resolutions, and removes the side black bars from the cutscenes. It also allows to control the field of view in real time.
+
+* [Download page and instructions](/../../../TheGunkUltrawide#readme)
+
+
+# Far Cry Primal ultrawide and wider
+![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/FarCryPrimalUltrawide/total?style=flat-square)
+
+The solution for ultrawide and wider aspect ratios addresses the issue of FOV reduction manifesting at higher FOV settings and very wide resolutions.
+
+* [Download page and instructions](/../../../FarCryPrimalUltrawide#readme)
+
+
+# Sherlock Holmes Chapter One ultrawide and wider
+![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/SherlockHolmesCOUltrawide/total?style=flat-square)
+
+The tool removes the side black bars from the game seen at 21:9 and wider resolutions.
+
+* [Download page and instructions](/../../../SherlockHolmesCOUltrawide#readme)
+
+
+# Echo Generation ultrawide and wider
+![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/EchoGenerationUltrawide/total?style=flat-square)
+
+The tool forces the game to support your resolution, which is useful for removing the side black bars at 21:9 and 32:9.
+
+* [Download page and instructions](/../../../EchoGenerationUltrawide#readme)
+
+
+# Subverse ultrawide and wider
+![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/SubverseUltrawide/total?style=flat-square)
+
+The tool removes the side black bars displayed in the game at 21:9 and wider aspect ratios.
+
+* [Download page and instructions](/../../../SubverseUltrawide#readme)
+
+
+# Saints Row: The Third Remastered Letterbox remover
+![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/SaintsRowTTRNoLetterbox/total?style=flat-square)
+
+The small patcher removes the top and bottom black bars (letterboxing) from the cutscenes of the game.
+
+* [Download page and instructions](/../../../SaintsRowTTRNoLetterbox#readme)
+
+
 # Other solutions
 ## The Artful Escape ultrawide and wider
 The solutions correct the reduced field of view and remove the black bars affecting 21:9 and wider resolutions, particularly prominent at 32:9 and wider.
@@ -430,7 +526,6 @@ The tool removes the side black bars displayed in the game at 21:9 and wider asp
 The tool allows to control the field of view in real time and also corrects it at the cutscenes, dialogue and aiming down the sights for 21:9 and wider resolutions.
 
 * [Download page and instructions](/../../releases/tag/terminatorresistance)
-
 
 ## More
 The biggest collection is available [here](https://ko-fi.com/rozziroxx/gallery).
