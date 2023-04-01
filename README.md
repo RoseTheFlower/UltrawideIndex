@@ -378,7 +378,7 @@ The tool removes the black bars that appear in the game at 21:9 and wider resolu
 # Sifu ultrawide and wider
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/sifu/total?label=downloads&style=flat-square)
 
-The tool corrects the vertical field of view reduction at 21:9 and wider, perfectly matching to 16:9 at every scene, and removes the black bars from the cutscenes. It also allows to see and control the field of view at any resolution in real time.
+The tool removes the black bars from the cutscenes and corrects their field of view reduction. It also allows to see and control the field of view at any resolution in real time.
 
 * [Download page and instructions](/../../releases/tag/sifu)
 
