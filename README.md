@@ -2,7 +2,7 @@
 ![](/screenshots/SherlockHolmesTheAwakened.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/sherlockawakened/total?label=downloads&style=flat-square)
 
-The solution for Sherlock Holmes The Awakaned removes the black bars from the game at ultrawide and wider resolutions while preserving the native vertical field of view.
+The solution for Sherlock Holmes The Awakened removes the black bars from the game at ultrawide and wider resolutions while preserving the native vertical field of view.
 
 * [Download page and instructions](/../../releases/tag/sherlockawakened)
 
