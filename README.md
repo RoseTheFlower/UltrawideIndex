@@ -1,3 +1,12 @@
+# Sherlock Holmes The Awakened ultrawide and wider
+![](/screenshots/SherlockHolmesTheAwakened.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/sherlockawakened/total?label=downloads&style=flat-square)
+
+The solution for Sherlock Holmes The Awakaned removes the black bars from the game at ultrawide and wider resolutions while preserving the native vertical field of view.
+
+* [Download page and instructions](/../../releases/tag/sherlockawakened)
+
+
 # The Outer Worlds SCE widescreen and wider
 ![](/screenshots/TheOuterWorldsSCE.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/outerworldssce/total?label=downloads&style=flat-square)
