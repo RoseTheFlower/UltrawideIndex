@@ -1,3 +1,12 @@
+# Gears of War: Ultimate Edition super ultrawide and wider
+![](/screenshots/GearsOfWarUltimateEdition.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gearsofwarue/total?label=downloads&style=flat-square)
+
+The solution for Gears of War: Ultimate Edition enables 32:9 and wider support.
+
+* [Download page and instructions](/../../releases/tag/gearsofwarue)
+
+
 # Sherlock Holmes The Awakened ultrawide and wider
 ![](/screenshots/SherlockHolmesTheAwakened.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/sherlockawakened/total?label=downloads&style=flat-square)
