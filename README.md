@@ -1,3 +1,12 @@
+# Ravenlok ultrawide and wider
+![](/screenshots/Ravenlok.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/ravenlok/total?label=downloads&style=flat-square)
+
+The solution addresses the issue of big, misplaced and unreachable UI elements in ultrawide and wider.
+
+* [Download page and instructions](/../../releases/tag/ravenlok)
+
+
 # Gears of War: Ultimate Edition super ultrawide and wider
 ![](/screenshots/GearsOfWarUltimateEdition.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gearsofwarue/total?label=downloads&style=flat-square)
@@ -5,6 +14,15 @@
 The solution for Gears of War: Ultimate Edition enables 32:9 and wider support.
 
 * [Download page and instructions](/../../releases/tag/gearsofwarue)
+
+
+# The Elder Scrolls V: Skyrim Special Edition FOV changer
+![](/screenshots/SkyrimSE.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/skyrimse/total?label=downloads&style=flat-square)
+
+The plugin for Flawless Widescreen allows to separately control the field of view of the world and the hands model in real time.
+
+* [Download page and instructions](/../../releases/tag/skyrimse)
 
 
 # Sherlock Holmes The Awakened ultrawide and wider
@@ -358,8 +376,7 @@ The small patcher removes the black bars from the game at 21:9 and wider.
 * [Download page and instructions](/../../releases/tag/tunic)
 
 
-# The Sexy Brutale ultrawide and wider 
-![](/screenshots/TheSexyBrutale.jpg)
+# The Sexy Brutale ultrawide and wider
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/thesexybrutale/total?label=downloads&style=flat-square)
 
 The patcher for ultrawide and wider addresses the lack of resolution options and corrects the UI scaling which resulted in cropping at 21:9 and caused the game to be unplayable at 32:9 and wider.
@@ -368,7 +385,6 @@ The patcher for ultrawide and wider addresses the lack of resolution options and
 
 
 # Young Souls ultrawide and wider
-![](/screenshots/YoungSouls.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/youngsouls/total?label=downloads&style=flat-square)
 
 A small patcher to unlock all resolutions and remove the black bars from 21:9 and wider.
@@ -377,7 +393,6 @@ A small patcher to unlock all resolutions and remove the black bars from 21:9 an
 
 
 # Combat Wings: Battle of Britain widescreen and wider
-![](/screenshots/CombatWingsBoB.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/combatwingsbob/total?label=downloads&style=flat-square)
 
 A small patcher to remove the black bars from the game at 16:9 and wider.
