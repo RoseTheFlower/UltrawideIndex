@@ -1,3 +1,12 @@
+# Saints Row: The Third black bars remover
+![](/screenshots/SaintsRowTheThird.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/saintsrowtt/total?label=downloads&style=flat-square)
+
+The solution for the original Saints Row: The Third removes the black bars from the real-time cutscenes at any resolution.
+
+* [Download page and instructions](/../../releases/tag/saintsrowtt)
+
+
 # Ravenlok ultrawide and wider
 ![](/screenshots/Ravenlok.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/ravenlok/total?label=downloads&style=flat-square)
