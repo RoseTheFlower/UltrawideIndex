@@ -1,3 +1,12 @@
+# Ghostbusters: Spirits Unleashed ultrawide and wider
+![](/screenshots/GhostbustersSpiritsUnleashed.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/ghostbusterssu/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the cutscenes and perfectly corrects the field of view reduction at all scenes.
+
+* [Download page and instructions](/../../releases/tag/ghostbusterssu)
+
+
 # Saints Row: The Third black bars remover
 ![](/screenshots/SaintsRowTheThird.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/saintsrowtt/total?label=downloads&style=flat-square)
