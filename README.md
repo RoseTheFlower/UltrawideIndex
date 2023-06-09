@@ -1,3 +1,12 @@
+# Harmony: The Fall of Reverie black bars remover
+![](/screenshots/Harmony.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/harmony/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the game in widescreen, ultrawide, and wider.
+
+* [Download page and instructions](/../../releases/tag/harmony)
+
+
 # Halls of Torment ultrawide and wider
 ![](/screenshots/HallsOfTorment.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/hallsoftorment/total?label=downloads&style=flat-square)
