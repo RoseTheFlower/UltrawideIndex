@@ -1,3 +1,12 @@
+# Batman: Arkham Knight ultrawide cutscenes
+![](/screenshots/BatmanArkhamKnight.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/arkhamknight/total?label=downloads&style=flat-square)
+
+The solution corrects the field of view reduction and removes the black bars at the real-time rendered cutscenes.
+
+* [Download page and instructions](/../../releases/tag/arkhamknight)
+
+
 # Harmony: The Fall of Reverie black bars remover
 ![](/screenshots/Harmony.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/harmony/total?label=downloads&style=flat-square)
