@@ -1,6 +1,6 @@
 # Batman: Arkham Knight ultrawide cutscenes
 ![](/screenshots/BatmanArkhamKnight.webp)
-![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/arkhamknight/total?label=downloads&style=flat-square)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/arkhamknight/total?label=downloads%20after%2045%20of%20v1&style=flat-square)
 
 The solution corrects the field of view reduction and removes the black bars at the real-time rendered cutscenes.
 
