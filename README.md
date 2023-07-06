@@ -2,7 +2,7 @@
 ![](/screenshots/BatmanArkhamKnight.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/arkhamknight/total?label=downloads&style=flat-square)
 
-The solution corrects the field of view reduction at the real-time rendered cutscenes.
+The solution corrects the field of view reduction and removes the black bars at the real-time rendered cutscenes.
 
 * [Download page and instructions](/../../releases/tag/arkhamknight)
 
