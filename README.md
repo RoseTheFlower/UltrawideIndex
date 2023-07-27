@@ -1,3 +1,12 @@
+# The Expanse - A Telltale Series black bars remover
+![](/screenshots/TheExpanse.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/expanse/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the game at widescreen, ultrawide, and wider resolutions.
+
+* [Download page and instructions](/../../releases/tag/expanse)
+
+
 # Batman: Arkham Knight ultrawide cutscenes
 ![](/screenshots/BatmanArkhamKnight.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/arkhamknight/total?label=downloads%20after%2045%20of%20v1&style=flat-square)
