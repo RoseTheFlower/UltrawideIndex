@@ -1,3 +1,12 @@
+# Remnant 2 ultrawide cutscenes
+![](/screenshots/Remnant2.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/remnant2/total?label=downloads&style=flat-square)
+
+The solution removes the horizontal black bars from the game and corrects its minor field of view discrepancies at 21:9 and wider.
+
+* [Download page and instructions](/../../releases/tag/remnant2)
+
+
 # Monster Hunter: World ultrawide and wider
 ![](/screenshots/MonsterHunterWorld.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/mhworld/total?label=downloads&style=flat-square)
