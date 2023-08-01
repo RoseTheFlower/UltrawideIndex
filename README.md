@@ -1,3 +1,12 @@
+# Monster Hunter: World ultrawide and wider
+![](/screenshots/MonsterHunterWorld.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/mhworld/total?label=downloads&style=flat-square)
+
+The solution enables the game to support 32:9 and wider resolutions and removes the black bars from the cutscenes at 21:9 and wider.
+
+* [Download page and instructions](/../../releases/tag/mhworld)
+
+
 # The Expanse - A Telltale Series black bars remover
 ![](/screenshots/TheExpanse.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/expanse/total?label=downloads&style=flat-square)
