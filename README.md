@@ -2,7 +2,7 @@
 ![](/screenshots/Remnant2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/remnant2/total?label=downloads&style=flat-square)
 
-The solution removes the horizontal black bars from the game and corrects its minor field of view discrepancies at 21:9 and wider.
+The solution removes the vertical black bars from the game and corrects its minor field of view discrepancies at 21:9 and wider.
 
 * [Download page and instructions](/../../releases/tag/remnant2)
 
