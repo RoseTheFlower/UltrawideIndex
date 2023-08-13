@@ -142,11 +142,11 @@ The solution enables the game to support 21:9 and wider resolutions without vert
 * [Download page and instructions](/../../releases/tag/valfaris)
 
 
-# Pop. Love. Panic! The OFK Story ultrawide
+# We Are OFK ultrawide
 ![](/screenshots/WeAreOFK.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/weareofk/total?label=downloads&style=flat-square)
 
-The mod for the game also known as We Are OFK offers many fixes made to enable it to support ultrawide resolutions without black bars. It also unlocks the FPS from 30.
+The mod for the game offers many fixes made to enable it to support ultrawide resolutions without black bars. It also unlocks the FPS from 30.
 
 * [Download page and instructions](/../../releases/tag/weareofk)
 
