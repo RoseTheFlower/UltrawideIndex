@@ -1,3 +1,12 @@
+# Pseudoregalia ultrawide and wider
+![](/screenshots/Pseudoregalia.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/pseudoregalia/total?label=downloads&style=flat-square)
+
+The solution corrects the vertical field of view reduction and removes the black bars from the cutscenes in the game.
+
+* [Download page and instructions](/../../releases/tag/pseudoregalia)
+
+
 # Remnant 2 ultrawide cutscenes
 ![](/screenshots/Remnant2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/remnant2/total?label=downloads&style=flat-square)
