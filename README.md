@@ -1,4 +1,4 @@
-# Blasphemous 2 ultrawide
+# Blasphemous 2 ultrawide and wider
 ![](/screenshots/Blasphemous2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/blasphemous2/total?label=downloads&style=flat-square)
 
