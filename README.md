@@ -1,6 +1,6 @@
 # Blasphemous 2 ultrawide and wider
 ![](/screenshots/Blasphemous2.webp)
-![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/blasphemous2/total?label=downloads&style=flat-square)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/blasphemous2/total?label=downloads%20after%2020%20of%20prior%20versions&style=flat-square)
 
 The solution removes the black bars from the game, expanding the view.
 
