@@ -1,3 +1,12 @@
+# Starfield ultrawide and wider
+![](/screenshots/Starfield.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/starfield/total?label=downloads&style=flat-square)
+
+The solution perfectly corrects the weapon model and removes the black bars at 21:9 and wider.
+
+* [Download page and instructions](/../../releases/tag/starfield)
+
+
 # Blasphemous 2 ultrawide and wider
 ![](/screenshots/Blasphemous2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/blasphemous2/total?label=downloads%20after%2020%20of%20prior%20versions&style=flat-square)
