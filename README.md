@@ -422,7 +422,6 @@ The solution removes the black bars from every scene at 21:9 and wider, maintain
 
 
 # Vampire: The Masquerade - Swansong ultrawide & wider
-![](/screenshots/Swansong.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/swansong/total?label=downloads&style=flat-square)
 
 The solution removes the black bars from the cutscenes, dialogue, menu and other screens, and dynamically corrects the field of view discrepancies at 21:9 and wider, achieving perfect vertical parity with 16:9 at each scene.
@@ -431,7 +430,6 @@ The solution removes the black bars from the cutscenes, dialogue, menu and other
 
 
 # Trek to Yomi super ultrawide and wider
-![](/screenshots/TrekToYomi.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/trektoyomi/total?label=downloads&style=flat-square)
 
 The solution removes the black bars and dynamically corrects the field of view at 32:9 and wider, achieving perfect vertical parity with 16:9 at each scene.
@@ -440,7 +438,6 @@ The solution removes the black bars and dynamically corrects the field of view a
 
 
 # Manhunt 2 widescreen and FOV tweaks
-![](/screenshots/Manhunt2.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/manhunt2/total?label=downloads&style=flat-square)
 
 The tool corrects the global issues of stretching and cutscenes field of view reduction affecting 16:9 and, more prominently, 21:9 and wider resolutions. It works in real time for any resolution and also allows to adjust the field of view to preference on the fly.
@@ -449,7 +446,6 @@ The tool corrects the global issues of stretching and cutscenes field of view re
 
 
 # Death Stranding Director's Cut ultrawide and FOV tweaks
-![](/screenshots/DeathStrandingDC.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/deathstranding/total?label=downloads&style=flat-square)
 
 The solution allows to modify the field of view at any resolution in real time, remove the zoom from the FMVs, and correct the aspect ratio at anything wider than the exact ratio of 21:9.
@@ -458,7 +454,6 @@ The solution allows to modify the field of view at any resolution in real time, 
 
 
 # Far Cry 5 field of view tweaks
-![](/screenshots/FarCry5.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/farcry5/total?label=downloads&style=flat-square)
 
 The solution increases the maximum field of view limit of 120 in the game and removes the FOV decrease at all interactions. It also removes the black bars from the cutscenes at 21:9 and wider.
@@ -467,7 +462,6 @@ The solution increases the maximum field of view limit of 120 in the game and re
 
 
 # Tunic ultrawide and wider
-![](/screenshots/Tunic.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/tunic/total?label=downloads&style=flat-square)
 
 The small patcher removes the black bars from the game at 21:9 and wider.
