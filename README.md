@@ -1,6 +1,6 @@
 # Starfield ultrawide and wider
 ![](/screenshots/Starfield.webp)
-![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/starfield/total?label=downloads&style=flat-square)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/starfield/total?label=downloads%20after%20150%20of%20a%20prior%20version&style=flat-square)
 
 The solution perfectly corrects the weapon model and removes the black bars at 21:9 and wider.
 
