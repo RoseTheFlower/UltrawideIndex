@@ -1,3 +1,12 @@
+# Brown Dust 2 ultrawide and wider
+![](/screenshots/BrownDust2.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/browndust2/total?label=downloads&style=flat-square)
+
+The solution corrects the field of view reduction in ultrawide, perfectly matching the vertical FOV to 16:9.
+
+* [Download page and instructions](/../../releases/tag/browndust2)
+
+
 # Starfield ultrawide and wider
 ![](/screenshots/Starfield.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/starfield/total?label=downloads%20after%20150%20of%20a%20prior%20version&style=flat-square)
