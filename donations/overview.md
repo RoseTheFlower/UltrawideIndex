@@ -6,7 +6,7 @@ Your support would be super helpful in making the hard work more sustainable. Th
 
 ## Conventional
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3U4PJ)
+<a href="https://www.buymeacoffee.com/rozzi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Cryptocurrencies
 [Here is a guide](https://99bitcoins.com/buy-bitcoin/buy-bitcoin-with-paypal/) on converting PayPal funds into cryptocurrencies.
