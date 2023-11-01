@@ -1,3 +1,12 @@
+# Jusant ultrawide and wider
+![](/screenshots/Jusant.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/jusant/total?label=downloads&style=flat-square)
+
+The solution corrects the vertical field of view reduction at the game and menu screens, and removes the black bars from the cutscenes.
+
+* [Download page and instructions](/../../releases/tag/jusant)
+
+
 # Cocoon ultrawide and wider
 ![](/screenshots/Cocoon.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/cocoon/total?label=downloads&style=flat-square)
