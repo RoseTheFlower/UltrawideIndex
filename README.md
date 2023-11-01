@@ -2,7 +2,7 @@
 ![](/screenshots/Jusant.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/jusant/total?label=downloads&style=flat-square)
 
-The solution corrects the vertical field of view reduction at the game and menu screens, and removes the black bars from the cutscenes.
+The solution removes the black bars and corrects the field of view at all scenes, including the main view, menu, and cutscenes.
 
 * [Download page and instructions](/../../releases/tag/jusant)
 
