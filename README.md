@@ -1,3 +1,12 @@
+# RoboCop: Rogue City ultrawide and wider
+![](/screenshots/RobocopRC.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/robocoprc/total?label=downloads&style=flat-square)
+
+The solution aims to correct all field of view reduction issues and removes black bars from dialogue.
+
+* [Download page and instructions](/../../releases/tag/robocoprc)
+
+
 # Jusant ultrawide and wider
 ![](/screenshots/Jusant.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/jusant/total?label=downloads&style=flat-square)
