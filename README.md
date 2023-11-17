@@ -1,3 +1,12 @@
+# The Last Faith ultrawide and wider
+![](/screenshots/TheLastFaith.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/thelastfaith/total?label=downloads&style=flat-square)
+
+The mod removes the black bars from the game, expanding the view.
+
+* [Download page and instructions](/../../releases/tag/thelastfaith)
+
+
 # RoboCop: Rogue City ultrawide and wider
 ![](/screenshots/RobocopRC.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/robocoprc/total?label=downloads&style=flat-square)
