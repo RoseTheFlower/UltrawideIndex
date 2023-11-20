@@ -13,10 +13,10 @@ Your support would be super helpful in making the hard work more sustainable. Th
 
 ### Any currencies
 
-<a href="https://nowpayments.io/donation?api_key=BH93XVS-X2H4QTP-KFVSVBW-Y1RQRJ1" target="_blank">
+<a href="https://nowpayments.io/donation/rose" target="_blank">
 <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Crypto donation button by NOWPayments"></a>
 
-### Specific currencies
+### Specific currencies directly
 
 :coin: Bitcoin address (BTC): 1EHaEsYNaEcRMYG9WrE76shGxP57dsr9Qq
 
