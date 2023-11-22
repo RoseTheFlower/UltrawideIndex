@@ -47,7 +47,7 @@ The solution corrects the field of view reduction in ultrawide, perfectly matchi
 ![](/screenshots/Starfield.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/starfield/total?label=downloads%20after%20150%20of%20a%20prior%20version&style=flat-square)
 
-The solution removes the black bars at 21:9 and wider.
+The solution perfectly corrects the weapon model and removes the black bars at 21:9 and wider.
 
 * [Download page and instructions](/../../releases/tag/starfield)
 
