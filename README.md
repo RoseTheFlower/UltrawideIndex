@@ -1,3 +1,12 @@
+# Headbangers: Rhythm Royale ultrawide and wider
+![](/screenshots/Headbangers.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/headbangers/total?label=downloads&style=flat-square)
+
+The mod removes the black bars from the game, expanding the view.
+
+* [Download page and instructions](/../../releases/tag/headbangers)
+
+
 # The Last Faith ultrawide and wider
 ![](/screenshots/TheLastFaith.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/thelastfaith/total?label=downloads&style=flat-square)
