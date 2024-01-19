@@ -1,3 +1,12 @@
+# Solar Ash ultrawide and wider
+![](/screenshots/SolarAsh.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/solarash/total?label=downloads&style=flat-square)
+
+The solution removes the black bars while preserving the vertical field of view and the interaction prompts' locations.
+
+* [Download page and instructions](/../../releases/tag/solarash)
+
+
 # Deliver Us Mars ultrawide and wider
 ![](/screenshots/DeliverUsMars.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/deliverusmars/total?label=downloads&style=flat-square)
