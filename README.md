@@ -1,3 +1,12 @@
+# Granblue Fantasy Versus: Rising ultrawide
+![](/screenshots/GranblueFantasyVersusRising.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/granbluerising/total?label=downloads&style=flat-square)
+
+The solution removes the vertical black bars without reducing the field of view.
+
+* [Download page and instructions](/../../releases/tag/granbluerising)
+
+
 # Solar Ash ultrawide and wider
 ![](/screenshots/SolarAsh.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/solarash/total?label=downloads&style=flat-square)
