@@ -476,7 +476,6 @@ The small patcher removes the black bars from the game at 21:9 and wider resolut
 
 
 # As Dusk Falls ultrawide and wider
-![](/screenshots/AsDuskFalls.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/asduskfalls/total?label=downloads&style=flat-square)
 
 The solution removes the  black bars from the game at 21:9 and wider resolutions.
@@ -485,7 +484,6 @@ The solution removes the  black bars from the game at 21:9 and wider resolutions
 
 
 # Dungeon of the Endless ultrawide and wider
-![](/screenshots/DungeonOfTheEndless.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dungeonote/total?label=downloads&style=flat-square)
 
 The small patcher corrects the stretching of the gameplay view affecting 21:9 and wider resolutions.
@@ -494,7 +492,6 @@ The small patcher corrects the stretching of the gameplay view affecting 21:9 an
 
 
 # The Quarry ultrawide and wider
-![](/screenshots/TheQuarry.jpg)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/thequarry/total?label=downloads&style=flat-square)
 
 The solution removes the black bars from every scene at 21:9 and wider, maintaining the original vertical field of view.
