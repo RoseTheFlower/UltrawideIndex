@@ -1,3 +1,12 @@
+# Banishers: Ghosts of New Eden ultrawide and wider
+![](/screenshots/Banishers.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/banishers/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the main view, menu and cutscenes without reducing the field of view.
+
+* [Download page and instructions](/../../releases/tag/banishers)
+
+
 # Granblue Fantasy Versus: Rising ultrawide
 ![](/screenshots/GranblueFantasyVersusRising.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/granbluerising/total?label=downloads&style=flat-square)
