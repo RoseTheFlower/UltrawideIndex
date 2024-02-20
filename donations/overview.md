@@ -4,15 +4,13 @@ All my work online is for the PC community, and particularly the widescreen gami
 
 Your support would be super helpful in making the hard work more sustainable.
 
-## Cryptocurrencies
-[Here is a guide](https://99bitcoins.com/buy-bitcoin/buy-bitcoin-with-paypal/) on converting PayPal funds into cryptocurrencies.
 
-### Any currencies
+### Any cryptocurrencies
 
 <a href="https://nowpayments.io/donation/rose" target="_blank">
 <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Crypto donation button by NOWPayments"></a>
 
-### Specific currencies directly
+### Specific cryptocurrencies directly
 
 :coin: Bitcoin address (BTC): 1EHaEsYNaEcRMYG9WrE76shGxP57dsr9Qq
 
