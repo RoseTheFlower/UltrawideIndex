@@ -2,11 +2,7 @@
 
 All my work online is for the PC community, and particularly the widescreen gaming community.
 
-Your support would be super helpful in making the hard work more sustainable. There are multiple ways to donate to help me out.
-
-## Conventional
-
-<a href="https://www.buymeacoffee.com/rozzi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+Your support would be super helpful in making the hard work more sustainable.
 
 ## Cryptocurrencies
 [Here is a guide](https://99bitcoins.com/buy-bitcoin/buy-bitcoin-with-paypal/) on converting PayPal funds into cryptocurrencies.
