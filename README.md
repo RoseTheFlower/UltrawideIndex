@@ -1,3 +1,12 @@
+# Nickelodeon All-Star Brawl 2 ultrawide and wider
+![](/screenshots/NickelodeonASB2.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/nickelodeonasb2/total?label=downloads&style=flat-square)
+
+The solution enables the game to support ultrawide and wider with no black bars.
+
+* [Download page and instructions](/../../releases/tag/nickelodeonasb2)
+
+
 # Banishers: Ghosts of New Eden ultrawide and wider
 ![](/screenshots/Banishers.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/banishers/total?label=downloads&style=flat-square)
