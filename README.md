@@ -1,3 +1,12 @@
+# Brothers: A Tale of Two Sons Remake ultrawide and wider
+![](/screenshots/BrothersRemake.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/brothersremake/total?label=downloads&style=flat-square)
+
+The solution removes all black bars in ultrawide and wider without reducing the vertical field of view.
+
+* [Download page and instructions](/../../releases/tag/brothersremake)
+
+
 # Nickelodeon All-Star Brawl 2 ultrawide and wider
 ![](/screenshots/NickelodeonASB2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/nickelodeonasb2/total?label=downloads&style=flat-square)
