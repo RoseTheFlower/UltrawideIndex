@@ -1,4 +1,4 @@
-# Brothers: A Tale of Two Sons Remake ultrawide and wider
+# Brothers: A Tale of Two Sons Remake ultrawide & wider
 ![](/screenshots/BrothersRemake.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/brothersremake/total?label=downloads&style=flat-square)
 
