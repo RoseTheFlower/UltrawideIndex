@@ -1,3 +1,12 @@
+# Outpost: Infinity Siege ultrawide cutscenes
+![](/screenshots/OutpostInfinitySiege.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/outpostis/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the cutscenes without reducing the vertical field of view.
+
+* [Download page and instructions](/../../releases/tag/outpostis)
+
+
 # Brothers: A Tale of Two Sons Remake ultrawide & wider
 ![](/screenshots/BrothersRemake.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/brothersremake/total?label=downloads&style=flat-square)
