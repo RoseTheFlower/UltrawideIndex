@@ -511,14 +511,6 @@ The small patcher removes the black bars from the game at 21:9 and wider resolut
 * [Download page and instructions](/../../releases/tag/bfdungeon)
 
 
-# As Dusk Falls ultrawide and wider
-![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/asduskfalls/total?label=downloads&style=flat-square)
-
-The solution removes the  black bars from the game at 21:9 and wider resolutions.
-
-* [Download page and instructions](/../../releases/tag/asduskfalls)
-
-
 # Dungeon of the Endless ultrawide and wider
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dungeonote/total?label=downloads&style=flat-square)
 
