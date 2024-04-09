@@ -1,3 +1,12 @@
+# Injustice 2 ultrawide and wider
+![](/screenshots/Injustice2.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/injustice2/total?label=downloads&style=flat-square)
+
+The solution removes the vertical black bars from the story mode, menu screens and super moves.
+
+* [Download page and instructions](/../../releases/tag/injustice2)
+
+
 # Outpost: Infinity Siege ultrawide cutscenes
 ![](/screenshots/OutpostInfinitySiege.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/outpostis/total?label=downloads&style=flat-square)
