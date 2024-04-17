@@ -1,3 +1,12 @@
+# Harold Halibut ultrawide and wider
+![](/screenshots/HaroldHalibut.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/haroldhalibut/total?label=downloads&style=flat-square)
+
+The mod removes the black bars from the game, expanding the view of the main scenes and cutscenes.
+
+* [Download page and instructions](/../../releases/tag/haroldhalibut)
+
+
 # Injustice 2 ultrawide and wider
 ![](/screenshots/Injustice2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/injustice2/total?label=downloads&style=flat-square)
