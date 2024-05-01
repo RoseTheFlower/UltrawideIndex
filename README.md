@@ -439,15 +439,6 @@ The solution removes the black bars from the game at 21:9 and wider as far as po
 * [Download page and instructions](/../../releases/tag/rtmonkeyisland)
 
 
-# Disney Dreamlight Valley ultrawide and wider
-![](/screenshots/DreamlightValley.webp)
-![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dreamlightvalley/total?label=downloads%20after%20100%20of%20v1.0&style=flat-square)
-
-The solution forces the game to support 21:9 and wider resolutions without breaking the user interface.
-
-* [Download page and instructions](/../../releases/tag/dreamlightvalley)
-
-
 # Destroy All Humans! 2 - Reprobed ultrawide cutscenes
 ![](/screenshots/DestroyAllHumans2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/destroyallhumans2/total?label=downloads&style=flat-square)
