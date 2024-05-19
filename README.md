@@ -1,3 +1,12 @@
+# Drag Her! ultrawide and wider
+![](/screenshots/DragHer.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dragher/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the fights and enforces the user's resolution to bypass any restrictions.
+
+* [Download page and instructions](/../../releases/tag/dragher)
+
+
 # Harold Halibut ultrawide and wider
 ![](/screenshots/HaroldHalibut.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/haroldhalibut/total?label=downloads&style=flat-square)
