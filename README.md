@@ -1,3 +1,12 @@
+# Braid Anniversary Edition ultrawide and wider
+![](/screenshots/BraidAnniversary.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/braidanniversary/total?label=downloads&style=flat-square)
+
+The solution removes the vertical black bars from the game, expanding the view.
+
+* [Download page and instructions](/../../releases/tag/braidanniversary)
+
+
 # Drag Her! ultrawide and wider
 ![](/screenshots/DragHer.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dragher/total?label=downloads&style=flat-square)
