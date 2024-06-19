@@ -1,3 +1,12 @@
+# Still Wakes the Deep widescreen and wider
+![](/screenshots/StillWakesTheDeep.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/stillwakesthedeep/total?label=downloads&style=flat-square)
+
+The solution removes all black bars and corrects the FOV issues where applicable in widescreen and wider.
+
+* [Download page and instructions](/../../releases/tag/stillwakesthedeep)
+
+
 # Braid Anniversary Edition ultrawide and wider
 ![](/screenshots/BraidAnniversary.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/braidanniversary/total?label=downloads&style=flat-square)
