@@ -1,3 +1,12 @@
+# Celeste ultrawide and wider
+![](/screenshots/Celeste.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/stillwakesthedeep/total?label=downloads&style=flat-square)
+
+The solution enables ultrawide and wider support in the game.
+
+* [Download page and instructions](/../../releases/tag/celeste)
+
+
 # Still Wakes the Deep widescreen and wider
 ![](/screenshots/StillWakesTheDeep.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/stillwakesthedeep/total?label=downloads&style=flat-square)
