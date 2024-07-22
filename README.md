@@ -1,3 +1,12 @@
+# Gestalt: Steam & Cinder ultrawide
+![A 32:9 screenshot of Gestalt: Steam & Cinder](/screenshots/GestaltSC.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gestaltsc/total?label=downloads&style=flat-square)
+
+The solution removes the black bars to enable ultrawide support in the game.
+
+* [Download page and instructions](/../../releases/tag/gestaltsc)
+
+
 # Celeste ultrawide and wider
 ![](/screenshots/Celeste.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/celeste/total?label=downloads&style=flat-square)
