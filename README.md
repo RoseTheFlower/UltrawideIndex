@@ -2,7 +2,7 @@
 ![A 32:9 screenshot of Dandy Ace](/screenshots/DandyAce.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dandyace/total?label=downloads&style=flat-square)
 
-The solution enforces the player's resolution and consists of many UI and other fixes for ultrawide support.
+The solution enforces the player's resolution and contains many UI and other fixes for ultrawide support.
 
 * [Download page and instructions](/../../releases/tag/dandyace)
 
