@@ -1,3 +1,12 @@
+# Dandy Ace ultrawide and wider
+![A 32:9 screenshot of Dandy Ace](/screenshots/DandyAce.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dandyace/total?label=downloads&style=flat-square)
+
+The solution enforces the player's resolution and consists of many UI and other fixes for ultrawide support.
+
+* [Download page and instructions](/../../releases/tag/dandyace)
+
+
 # Gestalt: Steam & Cinder ultrawide
 ![A 32:9 screenshot of Gestalt: Steam & Cinder](/screenshots/GestaltSC.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gestaltsc/total?label=downloads&style=flat-square)
