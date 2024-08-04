@@ -1,3 +1,12 @@
+# Tchia widescreen and wider
+![A 32:9 screenshot of Tchia](/screenshots/Tchia.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/tchia/total?label=downloads&style=flat-square)
+
+The solution removes the black bars and perfectly corrects the FOV of all scenes to not reduce it compared to 16:9.
+
+* [Download page and instructions](/../../releases/tag/tchia)
+
+
 # Dandy Ace ultrawide and wider
 ![A 32:9 screenshot of Dandy Ace](/screenshots/DandyAce.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dandyace/total?label=downloads&style=flat-square)
