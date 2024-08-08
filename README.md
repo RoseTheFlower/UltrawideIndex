@@ -1,3 +1,12 @@
+# Cookie Cutter ultrawide and wider
+![A 32:9 screenshot of Cookie Cutter](/screenshots/CookieCutter.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/cookiecutter/total?label=downloads&style=flat-square)
+
+The solution removes the black bars to enable ultrawide and wider support in the game.
+
+* [Download page and instructions](/../../releases/tag/cookiecutter)
+
+
 # Tchia widescreen and wider
 ![A 32:9 screenshot of Tchia](/screenshots/Tchia.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/tchia/total?label=downloads&style=flat-square)
