@@ -1,3 +1,12 @@
+# The Casting of Frank Stone widescreen and wider
+![A 32:9 screenshot of The Casting of Frank Stone](/screenshots/TheCastingOfFrankStone.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/frankstone/total?label=downloads&style=flat-square)
+
+The solution removes the black bars without reducing the vertical field of view in ultrawide and other resolutions.
+
+* [Download page and instructions](/../../releases/tag/frankstone)
+
+
 # Cookie Cutter ultrawide and wider
 ![A 32:9 screenshot of Cookie Cutter](/screenshots/CookieCutter.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/cookiecutter/total?label=downloads&style=flat-square)
