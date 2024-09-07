@@ -844,6 +844,12 @@ The tool removes the side black bars displayed in the game at 21:9 and wider asp
 * [Download page and instructions](/../../releases/tag/rtypefinal2)
 
 
+##  Blasphemous ultrawide and wider
+The solution allows to remove the black bars from the gameplay at 21:9 and wider. 
+
+* [Download page and instructions](/../../releases/tag/blasphemous)
+
+
 ## Terminator: Resistance better ultrawide & FOV changer
 The tool allows to control the field of view in real time and also corrects it at the cutscenes, dialogue and aiming down the sights for 21:9 and wider resolutions.
 
