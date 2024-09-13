@@ -1,3 +1,12 @@
+# Satisfactory ultrawide and wider
+![A 32:9 screenshot of Satisfactory](/screenshots/Satisfactory.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/satisfactory/total?label=downloads&style=flat-square)
+
+The solution corrects the hands model view reduction and enforces the vertical FOV scaling for all scenes, including the main menu.
+
+* [Download page and instructions](/../../releases/tag/satisfactory)
+
+
 # The Casting of Frank Stone widescreen and wider
 ![A 32:9 screenshot of The Casting of Frank Stone](/screenshots/TheCastingOfFrankStone.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/frankstone/total?label=downloads&style=flat-square)
