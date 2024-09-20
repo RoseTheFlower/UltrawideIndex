@@ -1,3 +1,12 @@
+# God of War Ragnarok multi-monitor
+![A 48:9 screenshot of God of War Ragnarok](/screenshots/GodOfWarRagnarok.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gowragnarok/total?label=downloads&style=flat-square)
+
+The solution removes the black bars that appear in the game at 48:9 or other resolutions wider than 32:9.
+
+* [Download page and instructions](/../../releases/tag/gowragnarok)
+
+
 # Satisfactory ultrawide and wider
 ![A 32:9 screenshot of Satisfactory](/screenshots/Satisfactory.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/satisfactory/total?label=downloads&style=flat-square)
