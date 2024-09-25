@@ -1,3 +1,12 @@
+#  Gears Tactics ultrawide and wider
+![A 32:9 screenshot of Gears Tactics](/screenshots/GearsTactics.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gearstactics/total?label=downloads&style=flat-square)
+
+The solution aims to perfectly correct all vertical FOV reduction issues and removes the black bars from the cutscenes at 21:9 and wider.
+
+* [Download page and instructions](/../../releases/tag/gearstactics)
+
+
 # God of War Ragnarok multi-monitor
 ![A 48:9 screenshot of God of War Ragnarok](/screenshots/GodOfWarRagnarok.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gowragnarok/total?label=downloads&style=flat-square)
