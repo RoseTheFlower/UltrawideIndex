@@ -313,15 +313,6 @@ The solution removes the black bars from the game in widescreen, ultrawide, and 
 * [Download page and instructions](/../../releases/tag/harmony)
 
 
-# Halls of Torment ultrawide and wider
-![](/screenshots/HallsOfTorment.webp)
-![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/hallsoftorment/total?label=downloads&style=flat-square)
-
-The solution removes the black bars from the game at all 21:9 and wider resolutions.
-
-* [Download page and instructions](/../../releases/tag/hallsoftorment)
-
-
 # Ghostbusters: Spirits Unleashed ultrawide and wider
 ![](/screenshots/GhostbustersSpiritsUnleashed.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/ghostbusterssu/total?label=downloads&style=flat-square)
