@@ -1,8 +1,17 @@
-#  Gears Tactics ultrawide and wider
+#  Gears of War 4 ultrawide and wider
+![A 32:9 screenshot of Gears of War 4](/screenshots/GearsOfWar4.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gearsofwar4/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the cutscenes in ultrawide and wider without reducing the field of view.
+
+* [Download page and instructions](/../../releases/tag/gearsofwar4)
+
+
+# Gears Tactics ultrawide and wider
 ![A 32:9 screenshot of Gears Tactics](/screenshots/GearsTactics.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gearstactics/total?label=downloads&style=flat-square)
 
-The solution aims to correct all vertical FOV reduction issues and removes the black bars from the cutscenes at 21:9 and wider.
+The solution aims to correct all vertical FOV reduction and removes the black bars from the cutscenes at 21:9 and wider.
 
 * [Download page and instructions](/../../releases/tag/gearstactics)
 
