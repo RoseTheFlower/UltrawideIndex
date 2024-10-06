@@ -1,4 +1,13 @@
-#  Gears of War 4 ultrawide and wider
+# Silent Hill 2 (2024) cutscene improvements
+![A 32:9 screenshot of Gears of War 4](/screenshots/SilentHill2Remake.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/silenthill2remake/total?label=downloads&style=flat-square)
+
+The solutions remove the black bars from the cutscenes in anything other than 16:9 and fully unlock the FPS from 30.
+
+* [Download page and instructions](/../../releases/tag/silenthill2remake)
+
+
+# Gears of War 4 ultrawide and wider
 ![A 32:9 screenshot of Gears of War 4](/screenshots/GearsOfWar4.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gearsofwar4/total?label=downloads&style=flat-square)
 
