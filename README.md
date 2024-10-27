@@ -1,3 +1,12 @@
+# The Smurfs - Dreams widescreen and wider
+![A 32:9 screenshot of The Smurfs - Dreams](/screenshots/TheSmurfsDreams.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/smurfsdreams/total?label=downloads&style=flat-square)
+
+The solution removes the black bars in anything other than 16:9 without reducing the field of view.
+
+* [Download page and instructions](/../../releases/tag/smurfsdreams)
+
+
 # Neva ultrawide and wider
 ![A 32:9 screenshot of Neva](/screenshots/Neva.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/neva/total?label=downloads&style=flat-square)
