@@ -1,3 +1,12 @@
+# Red Dead Redemption ultrawide and wider
+![A 32:9 screenshot of Red Dead Redemption](/screenshots/RedDeadRedemption.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/reddeadredemption/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the cutscenes in ultrawide and wider.
+
+* [Download page and instructions](/../../releases/tag/reddeadredemption)
+
+
 # The Smurfs - Dreams widescreen and wider
 ![A 32:9 screenshot of The Smurfs - Dreams](/screenshots/TheSmurfsDreams.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/smurfsdreams/total?label=downloads&style=flat-square)
