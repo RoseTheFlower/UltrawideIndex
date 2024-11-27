@@ -5,7 +5,7 @@ All my work online is for the PC community, and particularly the widescreen gami
 Your support would be super helpful in making the hard work more sustainable.
 
 
-### Any cryptocurrencies
+### Any cryptocurrencies, including PayPal USD
 
 <a href="https://nowpayments.io/donation/rose" target="_blank">
 <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Crypto donation button by NOWPayments"></a>
