@@ -1,3 +1,12 @@
+# Path of Exile 2 super ultrawide and wider
+![A 32:9 screenshot of Path of Exile 2](/screenshots/PathOfExile2.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/pathofexile2/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the game in resolutions wider than 21:9.
+
+* [Download page and instructions](/../../releases/tag/pathofexile2)
+
+
 # Lego Horizon Adventures ultrawide and wider
 ![A 32:9 screenshot of Lego Horizon Adventures](/screenshots/LegoHorizonAdventures.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/legohorizon/total?label=downloads&style=flat-square)
