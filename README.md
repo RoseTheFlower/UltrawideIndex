@@ -1,3 +1,12 @@
+# Ninja Gaiden 2 Black ultrawide cutscenes
+![A 32:9 screenshot of Ninja Gaiden 2 Black](/screenshots/NinjaGaiden2Black.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/ninjagaiden2black/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the cutscenes in ultrawide and wider.
+
+* [Download page and instructions](/../../releases/tag/ninjagaiden2black)
+
+
 # Path of Exile 2 super ultrawide and wider
 ![A 32:9 screenshot of Path of Exile 2](/screenshots/PathOfExile2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/pathofexile2/total?label=downloads&style=flat-square)
