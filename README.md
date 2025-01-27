@@ -1,3 +1,12 @@
+# Killer Instinct ultrawide
+![A 32:9 screenshot of Killer Instinct](/screenshots/KillerInstinct.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/killerinstinct/total?label=downloads&style=flat-square)
+
+The solution enables ultrawide support, removing the black bars and expanding the view.
+
+* [Download page and instructions](/../../releases/tag/killerinstinct)
+
+
 # Ninja Gaiden 2 Black ultrawide cutscenes
 ![A 32:9 screenshot of Ninja Gaiden 2 Black](/screenshots/NinjaGaiden2Black.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/ninjagaiden2black/total?label=downloads&style=flat-square)
