@@ -1,3 +1,12 @@
+# The Mute House super ultrawide and wider
+![A 32:9 screenshot of The Mute House](/screenshots/TheMuteHouse.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/themutehouse/total?label=downloads&style=flat-square)
+
+The solution removes the black bars without reducing the field of view in 32:9 and wider.
+
+* [Download page and instructions](/../../releases/tag/themutehouse)
+
+
 # Killer Instinct ultrawide
 ![A 32:9 screenshot of Killer Instinct](/screenshots/KillerInstinct.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/killerinstinct/total?label=downloads&style=flat-square)
