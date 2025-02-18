@@ -1,3 +1,12 @@
+# Lost Records: Bloom & Rage ultrawide and wider
+![A 32:9 screenshot of Lost Records: Bloom & Rage](/screenshots/LostRecords.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/lostrecords/total?label=downloads&style=flat-square)
+
+The solution removes the black bars affecting the gameplay view and cutscenes in ultrawide and wider.
+
+* [Download page and instructions](/../../releases/tag/lostrecords)
+
+
 # The Mute House super ultrawide and wider
 ![A 32:9 screenshot of The Mute House](/screenshots/TheMuteHouse.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/themutehouse/total?label=downloads&style=flat-square)
