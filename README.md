@@ -7,7 +7,7 @@ The solution removes the black bars and corrects the field of view in ultrawide 
 * [Download page and instructions](/../../releases/tag/wanderstop)
 
 
-# Grand Theft V Enhanced ultrawide and FOV
+# Grand Theft Auto V Enhanced ultrawide and FOV
 ![A 32:9 screenshot of Grand Theft V Enhanced](/screenshots/GTAVEnhanced.webp)
 
 The plugin for Flawless Widescreen allows to remove the black bars from the cutscenes and control the FOV.
