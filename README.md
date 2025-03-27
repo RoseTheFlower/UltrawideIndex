@@ -1,3 +1,12 @@
+# Karma: The Dark World ultrawide and wider
+![A 32:9 screenshot of Karma: The Dark World](/screenshots/KarmaTheDarkWorld.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/karmatdw/total?label=downloads&style=flat-square)
+
+The solution corrects the field of view reduction in ultrawide and wider.
+
+* [Download page and instructions](/../../releases/tag/karmatdw)
+
+
 # Wanderstop ultrawide and wider
 ![A 32:9 screenshot of Wanderstop](/screenshots/Wanderstop.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/wanderstop/total?label=downloads&style=flat-square)
