@@ -1,3 +1,12 @@
+# Hello Kitty Island Adventure ultrawide and wider
+![A 32:9 screenshot of Hello Kitty Island Adventure](/screenshots/HelloKittyIslandAdventure.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/hellokittyia/total?label=downloads&style=flat-square)
+
+The solution enables all ultrawide and wider resolutions and removes the vertical black bars.
+
+* [Download page and instructions](/../../releases/tag/hellokittyia)
+
+
 # Karma: The Dark World ultrawide and wider
 ![A 32:9 screenshot of Karma: The Dark World](/screenshots/KarmaTheDarkWorld.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/karmatdw/total?label=downloads&style=flat-square)
