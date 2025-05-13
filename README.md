@@ -30,7 +30,7 @@ The solution removes the black bars and corrects the field of view in ultrawide 
 
 The plugin for Flawless Widescreen allows to remove the black bars from the cutscenes and control the FOV.
 
-* [Download page and instructions](https://www.nexusmods.com/gta5/mods/1205)
+* [Download page and instructions](https://www.nexusmods.com/gta5enhanced/mods/26)
 
 
 # Lost Records: Bloom & Rage ultrawide and wider
