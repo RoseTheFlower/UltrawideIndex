@@ -1,3 +1,12 @@
+# The Sinking City Remastered ultrawide and wider
+![A 32:9 screenshot of The Sinking City Remastered](/screenshots/TheSinkingCityRemastered.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/sinkingcityremaster/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the real-time cutscenes and dialogue scenes.
+
+* [Download page and instructions](/../../releases/tag/sinkingcityremaster)
+
+
 # Hello Kitty Island Adventure ultrawide and wider
 ![A 32:9 screenshot of Hello Kitty Island Adventure](/screenshots/HelloKittyIslandAdventure.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/hellokittyia/total?label=downloads&style=flat-square)
