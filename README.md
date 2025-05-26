@@ -1,3 +1,12 @@
+# Star Wars: Bounty Hunter widescreen and wider
+<!--![A 32:9 screenshot of Star Wars: Bounty Hunter](/screenshots/StarWarsBountyHunter.webp)-->
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/starwarsbh/total?label=downloads&style=flat-square)
+
+The solution corrects the field of view of the real-time cutscenes.
+
+* [Download page and instructions](/../../releases/tag/starwarsbh)
+
+
 # The Sinking City Remastered ultrawide and wider
 ![A 32:9 screenshot of The Sinking City Remastered](/screenshots/TheSinkingCityRemastered.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/sinkingcityremaster/total?label=downloads&style=flat-square)
