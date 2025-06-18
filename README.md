@@ -1,4 +1,14 @@
-#  Blades of Fire super ultrawide and wider
+# TRON: Catalyst ultrawide and wider
+![A 32:9 screenshot of TRON: Catalyst](/screenshots/TronCatalyst.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/troncatalyst/total?label=downloads&style=flat-square)
+
+The solution removes the vertical black bars affecting 21:9 and wider resolutions.
+
+* [Download page and instructions](/../../releases/tag/troncatalyst)
+
+
+
+# Blades of Fire super ultrawide and wider
 ![A 32:9 screenshot of Blades of Fire](/screenshots/BladesOfFire.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/bladesoffire/total?label=downloads&style=flat-square)
 
@@ -8,7 +18,7 @@ The solution removes the black bars in resolutions wider than 21:9.
 
 
 # Star Wars: Bounty Hunter widescreen and wider
-<!--![A 32:9 screenshot of Star Wars: Bounty Hunter](/screenshots/StarWarsBountyHunter.webp)-->
+![A 32:9 screenshot of Star Wars: Bounty Hunter](/screenshots/StarWarsBountyHunter.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/starwarsbh/total?label=downloads&style=flat-square)
 
 The solution corrects the field of view of the real-time cutscenes.
