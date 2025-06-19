@@ -1,3 +1,12 @@
+# Date Everything! ultrawide
+![Two 21:9 screenshots of Date Everything! side by side](/screenshots/DateEverything.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dateeverything/total?label=downloads&style=flat-square)
+
+The solution unlocks all resolutions to enable ultrawide monitor support.
+
+* [Download page and instructions](/../../releases/tag/dateeverything)
+
+
 # TRON: Catalyst ultrawide and wider
 ![A 32:9 screenshot of TRON: Catalyst](/screenshots/TronCatalyst.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/troncatalyst/total?label=downloads&style=flat-square)
@@ -5,7 +14,6 @@
 The solution removes the vertical black bars affecting 21:9 and wider resolutions.
 
 * [Download page and instructions](/../../releases/tag/troncatalyst)
-
 
 
 # Blades of Fire super ultrawide and wider
