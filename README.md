@@ -1,3 +1,12 @@
+# RoboCop: Rogue City - Unfinished Business ultrawide & wider
+![A 32:9 screenshot of RoboCop: Rogue City - Unfinished Business](/screenshots/RobocopUnfinishedBusiness.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/robocoprcub/total?label=downloads&style=flat-square)
+
+The solution aims to correct all field of view reduction issues and remove the vertical black bars from all scenes.
+
+* [Download page and instructions](/../../releases/tag/robocoprcub)
+
+
 # Date Everything! ultrawide
 ![Two 21:9 screenshots of Date Everything! side by side](/screenshots/DateEverything.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/dateeverything/total?label=downloads&style=flat-square)
