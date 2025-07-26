@@ -16,14 +16,13 @@ The instructions below apply to the solutions that require running an app after 
 #### Steam Tinker Launch
 *(based on Squiddim's guide submitted to this repository)*
 1. [Install Steam Tinker Launch](https://github.com/sonic2kk/steamtinkerlaunch/wiki/Installation).
-1. Download the desired trainer-based solution found in this repository.
+1. Download the desired trainer-based solution found in this repository and unpack it.
 1. In the Steam client, go to the game's properties and set *Steam Tinker Launch* as the compatibility tool.
-1. Launch the game from Steam and select Main Menu (or press Space) once the Steam Tinker Launch window shows up.
-1. In the Steam Tinker Launch window, select Category -> Misc.
-1. Select *Use Custom Command*.
-1. In the Custom Command field, use the file chooser and select the trainer exe.
-1. Select *Fork custom command*.
-1. Deselect *Use Steam Linux Runtime with Custom Command*.
-1. Select *Inject custom command*.
-1. Set *Inject wait* depending on the game (15 seconds are probably a good value).
-1. Press *Save and Play*.
+1. Launch the game from Steam and click *Main Menu* (or press Space) once the Steam Tinker Launch window shows up.
+1. In the Steam Tinker Launch window, click Category -> Misc.
+1. Check the *Use custom command* box and select the trainer exe via *Custom command*.
+1. Check the *Fork custom command* box.
+1. Uncheck the *Use Steam Linux Runtime with Custom Command* box.
+1. Check the *Inject custom command* box
+1. Set *Inject wait* depending on the game (e.g. 15 seconds).
+1. Click *Save and Play*.
