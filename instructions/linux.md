@@ -11,7 +11,7 @@ In Wine configuration, go to Libraries and add a new override for the applicable
 On Steam, add `WINEDLLOVERRIDES="dsound=n,b" %command%` as a launch option, where `dsound` is the name of the .dll file.
 
 ## Instructions for standalone injection-based solutions
-The instructions below apply to the solutions that require running an app after the game in order to target its process (e.g a trainer).
+The instructions below apply to the solutions that require running an app after the game in order to target its process (e.g. a trainer).
 ### Steam-specific
 #### Steam Tinker Launch
 *(based on Squiddim's guide submitted to this repository)*
