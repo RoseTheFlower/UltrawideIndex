@@ -1,3 +1,12 @@
+# Ninja Gaiden: Ragebound ultrawide
+![A 32:9 screenshot of Ninja Gaiden: Ragebound](/screenshots/NinjaGaidenRagebound.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/ngragebound/total?label=downloads&style=flat-square)
+
+The mod removes the vertical black bars from the game, expanding the view.
+
+* [Download page and instructions](/../../releases/tag/ngragebound)
+
+
 # RoboCop: Rogue City - Unfinished Business ultrawide & wider
 ![A 32:9 screenshot of RoboCop: Rogue City - Unfinished Business](/screenshots/RobocopUnfinishedBusiness.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/robocoprcub/total?label=downloads&style=flat-square)
