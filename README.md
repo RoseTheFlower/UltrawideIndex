@@ -9,7 +9,7 @@ The mod removes the black bars from the game, expanding the view.
 
 # Ninja Gaiden: Ragebound ultrawide
 ![A 32:9 screenshot of Ninja Gaiden: Ragebound](/screenshots/NinjaGaidenRagebound.webp)
-![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/ngragebound/total?label=downloads&style=flat-square)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/ngragebound/total?label=downloads%20after%20162%20of%20prior%20versions&style=flat-square)
 
 The mod removes the vertical black bars from the game, expanding the view.
 
