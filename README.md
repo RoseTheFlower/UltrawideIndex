@@ -1,3 +1,12 @@
+# LEGO City Undercover ultrawide
+![A 32:9 screenshot of LEGO City Undercover](/screenshots/LegoCityUndercover.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/legocityundercover/total?label=downloads&style=flat-square)
+
+The solution corrects the reduced FOV in cutscenes and menu scenes. It also addresses a few other issues.
+
+* [Download page and instructions](/../../releases/tag/legocityundercover)
+
+
 # Heartworm ultrawide and wider
 ![A 32:9 screenshot of Heartworm](/screenshots/Heartworm.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/heartworm/total?label=downloads&style=flat-square)
