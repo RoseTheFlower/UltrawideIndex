@@ -1,3 +1,12 @@
+# Agatha Christie - Death on the Nile black bars remover
+![A 32:9 screenshot of Agatha Christie - Death on the Nile](/screenshots/AgathaChristieDeathOnTheNile.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/agathachristiedotn/total?label=downloads&style=flat-square)
+
+The mod removes the black bars from the cutscenes, expanding the view.
+
+* [Download page and instructions](/../../releases/tag/agathachristiedotn)
+
+
 # LEGO City Undercover ultrawide
 ![A 32:9 screenshot of LEGO City Undercover](/screenshots/LegoCityUndercover.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/legocityundercover/total?label=downloads&style=flat-square)
