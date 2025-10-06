@@ -1,3 +1,12 @@
+# Underward ultrawide and wider
+![A 32:9 screenshot of Underward](/screenshots/Underward.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/underward/total?label=downloads&style=flat-square)
+
+The solution removes the black bars in ultrawide and wider, expanding the view.
+
+* [Download page and instructions](/../../releases/tag/underward)
+
+
 # Agatha Christie - Death on the Nile black bars remover
 ![A 32:9 screenshot of Agatha Christie - Death on the Nile](/screenshots/AgathaChristieDeathOnTheNile.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/agathachristiedotn/total?label=downloads&style=flat-square)
