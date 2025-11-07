@@ -673,7 +673,6 @@ The solution enables the in-game field of view slider at ultrawide resolutions.
 
 
 # Chained Echoes ultrawide
-![](/screenshots/ChainedEchoes.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/chainedechoes/total?label=downloads&style=flat-square)
 
 The mod offers many fixes made to enable the game to support ultrawide and wider resolutions without black bars.
@@ -682,7 +681,6 @@ The mod offers many fixes made to enable the game to support ultrawide and wider
 
 
 # High on Life FOV changer
-![](/screenshots/HighOnLife.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/highonlife/total?label=downloads&style=flat-square)
 
 The tool allows to see and control the field of view in real time.
@@ -691,7 +689,6 @@ The tool allows to see and control the field of view in real time.
 
 
 # Saints Row IV ultrawide cutscenes
-![](/screenshots/SaintsRow4.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/saintsrow4/total?label=downloads&style=flat-square)
 
 The solution removes the black bars from the cutscenes at 21:9 and wider and corrects their field of view to match 16:9.
@@ -700,7 +697,6 @@ The solution removes the black bars from the cutscenes at 21:9 and wider and cor
 
 
 # Hello Neighbor 2 ultrawide and wider
-![](/screenshots/HelloNeighbor2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/helloneighbor2/total?label=downloads&style=flat-square)
 
 The solution corrects the field of view reduction at 21:9 and wider resolutions, vertically matching 16:9. It also removes black bars from the cutscenes.
@@ -709,7 +705,6 @@ The solution corrects the field of view reduction at 21:9 and wider resolutions,
 
 
 # Gungrave G.O.R.E ultrawide and wider
-![](/screenshots/GungraveGORE.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gungravegore/total?label=downloads&style=flat-square)
 
 The solution removes the black bars at 21:9 and wider resolutions while preserving the field of view for perfect vertical parity with 16:9.
@@ -718,7 +713,6 @@ The solution removes the black bars at 21:9 and wider resolutions while preservi
 
 
 # The Evil Within 2 field of view improvements
-![](/screenshots/TheEvilWithin2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/evilwithin2/total?label=downloads&style=flat-square)
 
 The tool allows to control the field of view in real time and exceed the in-game limit of 90, which is often lowered by the game. As a bonus, it contains a fix for the black bars at the cutscenes in ultrawide, which works for any aspect ratio and game version.
@@ -727,7 +721,6 @@ The tool allows to control the field of view in real time and exceed the in-game
 
 
 # Gotham Knights ultrawide cutscenes
-![](/screenshots/GothamKnights.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gothamknights/total?label=downloads&style=flat-square)
 
 The solution removes the black bars from the cutscenes and menus at 21:9 and wider resolutions while preserving the vertical field of view.
@@ -736,7 +729,6 @@ The solution removes the black bars from the cutscenes and menus at 21:9 and wid
 
 
 # Uncharted ultrawide and wider
-![](/screenshots/Uncharted.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/uncharted/total?label=downloads&style=flat-square)
 
 The solution removes the black bars from the cutscenes at 21:9 and wider, and from the gameplay at anything wider than 32:9.
@@ -745,7 +737,6 @@ The solution removes the black bars from the cutscenes at 21:9 and wider, and fr
 
 
 # A Plague Tale: Requiem multi-monitor
-![](/screenshots/APlagueTaleRequiem.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/plaguerequiem/total?label=downloads&style=flat-square)
 
 The solution removes the black bars that appear in the game at 48:9 or other resolutions wider than 32:9.
@@ -754,7 +745,6 @@ The solution removes the black bars that appear in the game at 48:9 or other res
 
 
 # The Walking Dead ultrawide & wider (Microsoft Store)
-![](/screenshots/TheWalkingDead.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/thewalkingdead/total?label=downloads&style=flat-square)
 
 The solution for the first seasons of the game, specific to Microsoft Store and Game Pass, removes the black bars that appear at 21:9 and wider resolutions.
@@ -763,7 +753,6 @@ The solution for the first seasons of the game, specific to Microsoft Store and 
 
 
 # Scorn ultrawide and wider
-![](/screenshots/Scorn.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/scorn/total?label=downloads&style=flat-square)
 
 The solution corrects the field of view reduction at the gameplay, cutscenes and menu at 21:9 and wider resolutions.
@@ -772,7 +761,6 @@ The solution corrects the field of view reduction at the gameplay, cutscenes and
 
 
 # Beacon Pines ultrawide and wider
-![](/screenshots/BeaconPines.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/beaconpines/total?label=downloads&style=flat-square)
 
 The solution enables the game to support 21:9 and wider resolutions without any vertical black bars.
@@ -781,7 +769,6 @@ The solution enables the game to support 21:9 and wider resolutions without any 
 
 
 # Return to Monkey Island ultrawide
-![](/screenshots/ReturnToMonkeyIsland.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/rtmonkeyisland/total?label=downloads&style=flat-square)
 
 The solution removes the black bars from the game at 21:9 and wider as far as possible within the limitations of its static backgrounds.
@@ -790,7 +777,6 @@ The solution removes the black bars from the game at 21:9 and wider as far as po
 
 
 # Destroy All Humans! 2 - Reprobed ultrawide cutscenes
-![](/screenshots/DestroyAllHumans2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/destroyallhumans2/total?label=downloads&style=flat-square)
 
 The solution removes the black bars from the rendered cutscenes and dialogue scenes in the game while perfectly preserving their vertical field of view.
@@ -799,7 +785,6 @@ The solution removes the black bars from the rendered cutscenes and dialogue sce
 
 
 # Mafia: Definitive Edition ultrawide cutscenes
-![](/screenshots/MafiaDE.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/mafiade/total?label=downloads&style=flat-square)
 
 The solution removes the black bars from the rendered cutscenes in the game.
@@ -808,7 +793,6 @@ The solution removes the black bars from the rendered cutscenes in the game.
 
 
 # Gibbon: Beyond the Trees ultrawide and wider
-![](/screenshots/GibbonBeyondTheTrees.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gibbon/total?label=downloads&style=flat-square)
 
 The solution forces the game to support 21:9 and wider resolutions.
@@ -817,7 +801,6 @@ The solution forces the game to support 21:9 and wider resolutions.
 
 
 # Road 96 FOV changer
-![](/screenshots/Road96.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/road96/total?label=downloads&style=flat-square)
 
 The tool allows to see and control the first-person field of view in real time.
@@ -826,7 +809,6 @@ The tool allows to see and control the first-person field of view in real time.
 
 
 # South of the Circle ultrawide and wider
-![](/screenshots/SouthOfTheCircle.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/southofthecircle/total?label=downloads&style=flat-square)
 
 The small patcher removes the black bars from the game at 21:9 and wider resolutions and unlocks the resolution selection and windowed mode options in the settings.
@@ -835,7 +817,6 @@ The small patcher removes the black bars from the game at 21:9 and wider resolut
 
 
 # Path of Exile super ultrawide and wider
-![](/screenshots/PathOfExile.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/pathofexile/total?label=downloads&style=flat-square)
 
 The solution returns the game to its former glory of having no black bars at resolutions wider than 21:9.
