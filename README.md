@@ -1,3 +1,12 @@
+# Syberia - Remastered ultrawide and wider
+![A 32:9 screenshot of Syberia - Remastered](/screenshots/SyberiaRemastered.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/syberiaremaster/total?label=downloads&style=flat-square)
+
+The mod enables ultrawide support without field of view reduction or black bars at the main view.
+
+* [Download page and instructions](/../../releases/tag/syberiaremaster)
+
+
 # Keeper widescreen and wider
 ![A 32:9 screenshot of Keeper](/screenshots/Keeper.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/keeper/total?label=downloads&style=flat-square)
