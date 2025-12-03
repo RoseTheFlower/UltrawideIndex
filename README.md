@@ -1,3 +1,12 @@
+# Horses widescreen and wider
+![A 32:9 screenshot of Horses](/screenshots/Horses.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/horses/total?label=downloads&style=flat-square)
+
+The mod removes the vertical black bars limiting the game view to 4:3.
+
+* [Download page and instructions](/../../releases/tag/horses)
+
+
 # Syberia - Remastered ultrawide and wider
 ![A 32:9 screenshot of Syberia - Remastered](/screenshots/SyberiaRemastered.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/syberiaremaster/total?label=downloads&style=flat-square)
