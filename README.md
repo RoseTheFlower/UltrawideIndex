@@ -1,3 +1,12 @@
+#  Terminator 2D: NO FATE ultrawide and wider
+![A 32:9 screenshot of Terminator 2D](/screenshots/Terminator2D.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/terminator2d/total?label=downloads&style=flat-square)
+
+The mod enables ultrawide and wider support with no vertical black bars.
+
+* [Download page and instructions](/../../releases/tag/terminator2d)
+
+
 # Horses widescreen and wider
 ![A 32:9 screenshot of Horses](/screenshots/Horses.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/horses/total?label=downloads&style=flat-square)
