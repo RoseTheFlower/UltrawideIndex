@@ -25,15 +25,6 @@ The mod enables ultrawide support without field of view reduction or black bars 
 * [Download page and instructions](/../../releases/tag/syberiaremaster)
 
 
-# Keeper widescreen and wider
-![A 32:9 screenshot of Keeper](/screenshots/Keeper.webp)
-![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/keeper/total?label=downloads&style=flat-square)
-
-The solution removes the black bars in anything other than 16:9 without reducing the field of view.
-
-* [Download page and instructions](/../../releases/tag/keeper)
-
-
 # Little Nightmares Enhanced Edition widescreen and wider
 ![A 32:9 screenshot of Little Nightmares Enhanced Edition](/screenshots/LittleNightmaresEnhanced.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/littlenightmaresee/total?label=downloads&style=flat-square)
