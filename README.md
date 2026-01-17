@@ -1,4 +1,13 @@
-#  Terminator 2D: NO FATE ultrawide and wider
+# My Little Pony: A Zephyr Heights Mystery ultrawide & wider
+![A 32:9 screenshot of My Little Pony: A Zephyr Heights Mystery](/screenshots/MLPZephyrHeights.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/mlpzephyrheights/total?label=downloads&style=flat-square)
+
+The solution disables the game's resolution restrictions, allowing for ultrawide support.
+
+* [Download page and instructions](/../../releases/tag/mlpzephyrheights)
+
+
+# Terminator 2D: NO FATE ultrawide and wider
 ![A 32:9 screenshot of Terminator 2D](/screenshots/Terminator2D.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/terminator2d/total?label=downloads&style=flat-square)
 
