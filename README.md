@@ -1,4 +1,13 @@
-#  Kane & Lynch 2: Dog Days ultrawide and wider
+#  Watch Dogs 2 ultrawide and wider
+![A 32:9 screenshot of Kane & Lynch 2: Dog Days](/screenshots/WatchDogs2.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/watchdogs2/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from the game's real-time cutscenes in ultrawide and wider.
+
+* [Download page and instructions](/../../releases/tag/watchdogs2)
+
+
+# Kane & Lynch 2: Dog Days ultrawide and wider
 ![A 32:9 screenshot of Kane & Lynch 2: Dog Days](/screenshots/KaneLynch2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/kanelynch2/total?label=downloads&style=flat-square)
 
@@ -466,7 +475,6 @@ The solution removes the black bars while preserving the vertical field of view 
 
 
 # Deliver Us Mars ultrawide and wider
-![](/screenshots/DeliverUsMars.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/deliverusmars/total?label=downloads&style=flat-square)
 
 The solution corrects the field of view reduction at the main menu and cutscenes. It also corrects the gameplay FOV to vertically match 16:9.
@@ -475,7 +483,6 @@ The solution corrects the field of view reduction at the main menu and cutscenes
 
 
 # Headbangers: Rhythm Royale ultrawide and wider
-![](/screenshots/Headbangers.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/headbangers/total?label=downloads&style=flat-square)
 
 The mod removes the black bars from the game, expanding the view.
@@ -484,7 +491,6 @@ The mod removes the black bars from the game, expanding the view.
 
 
 # The Last Faith ultrawide and wider
-![](/screenshots/TheLastFaith.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/thelastfaith/total?label=downloads&style=flat-square)
 
 The mod removes the black bars from the game, expanding the view.
@@ -493,7 +499,6 @@ The mod removes the black bars from the game, expanding the view.
 
 
 # RoboCop: Rogue City ultrawide and wider
-![](/screenshots/RobocopRC.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/robocoprc/total?label=downloads&style=flat-square)
 
 The solution aims to correct all field of view reduction issues and removes black bars from dialogue.
@@ -502,7 +507,6 @@ The solution aims to correct all field of view reduction issues and removes blac
 
 
 # Jusant ultrawide and wider
-![](/screenshots/Jusant.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/jusant/total?label=downloads&style=flat-square)
 
 The solution removes the black bars and corrects the field of view at all scenes, including the main view, menu, and cutscenes.
@@ -511,7 +515,6 @@ The solution removes the black bars and corrects the field of view at all scenes
 
 
 # Cocoon ultrawide and wider
-![](/screenshots/Cocoon.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/cocoon/total?label=downloads&style=flat-square)
 
 The solution enables the game to support 21:9 and wider resolutions without any vertical black bars.
@@ -520,7 +523,6 @@ The solution enables the game to support 21:9 and wider resolutions without any 
 
 
 # Brown Dust 2 ultrawide and wider
-![](/screenshots/BrownDust2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/browndust2/total?label=downloads&style=flat-square)
 
 The solution corrects the field of view reduction in ultrawide, perfectly matching the vertical FOV to 16:9.
@@ -529,7 +531,6 @@ The solution corrects the field of view reduction in ultrawide, perfectly matchi
 
 
 # Starfield ultrawide and wider
-![](/screenshots/Starfield.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/starfield/total?label=downloads%20after%20150%20of%20a%20prior%20version&style=flat-square)
 
 The solution removes the black bars from the main view at 48:9, and the photo mode at 21:9 and wider.
@@ -538,7 +539,6 @@ The solution removes the black bars from the main view at 48:9, and the photo mo
 
 
 # Blasphemous 2 ultrawide and wider
-![](/screenshots/Blasphemous2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/blasphemous2/total?label=downloads%20after%2020%20of%20prior%20versions&style=flat-square)
 
 The solution removes the black bars from the game, expanding the view.
@@ -547,7 +547,6 @@ The solution removes the black bars from the game, expanding the view.
 
 
 # Pseudoregalia ultrawide and wider
-![](/screenshots/Pseudoregalia.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/pseudoregalia/total?label=downloads&style=flat-square)
 
 The solution corrects the vertical field of view reduction and removes the black bars from the cutscenes in the game.
@@ -556,7 +555,6 @@ The solution corrects the vertical field of view reduction and removes the black
 
 
 # Remnant 2 ultrawide cutscenes
-![](/screenshots/Remnant2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/remnant2/total?label=downloads&style=flat-square)
 
 The solution removes the vertical black bars from the game and corrects its minor field of view discrepancies at 21:9 and wider.
@@ -565,7 +563,6 @@ The solution removes the vertical black bars from the game and corrects its mino
 
 
 # Monster Hunter: World ultrawide and wider
-![](/screenshots/MonsterHunterWorld.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/mhworld/total?label=downloads&style=flat-square)
 
 The solution enables the game to support 32:9 and wider resolutions and removes the black bars from the cutscenes at 21:9 and wider.
@@ -574,7 +571,6 @@ The solution enables the game to support 32:9 and wider resolutions and removes 
 
 
 # The Expanse - A Telltale Series black bars remover
-![](/screenshots/TheExpanse.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/expanse/total?label=downloads&style=flat-square)
 
 The solution removes the black bars from the game at widescreen, ultrawide, and wider resolutions.
@@ -583,7 +579,6 @@ The solution removes the black bars from the game at widescreen, ultrawide, and 
 
 
 # Batman: Arkham Knight ultrawide cutscenes
-![](/screenshots/BatmanArkhamKnight.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/arkhamknight/total?label=downloads%20after%20119%20of%20prior%20versions&style=flat-square)
 
 The solution corrects the field of view reduction and removes the black bars at the real-time rendered cutscenes.
@@ -592,7 +587,6 @@ The solution corrects the field of view reduction and removes the black bars at 
 
 
 # Harmony: The Fall of Reverie black bars remover
-![](/screenshots/Harmony.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/harmony/total?label=downloads&style=flat-square)
 
 The solution removes the black bars from the game in widescreen, ultrawide, and wider.
@@ -601,7 +595,6 @@ The solution removes the black bars from the game in widescreen, ultrawide, and 
 
 
 # Ghostbusters: Spirits Unleashed ultrawide and wider
-![](/screenshots/GhostbustersSpiritsUnleashed.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/ghostbusterssu/total?label=downloads&style=flat-square)
 
 The solution removes the black bars from the cutscenes and perfectly corrects the field of view reduction at all scenes.
@@ -610,7 +603,6 @@ The solution removes the black bars from the cutscenes and perfectly corrects th
 
 
 # Saints Row: The Third black bars remover
-![](/screenshots/SaintsRowTheThird.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/saintsrowtt/total?label=downloads&style=flat-square)
 
 The solution for the original Saints Row: The Third removes the black bars from the real-time cutscenes at any resolution.
@@ -619,7 +611,6 @@ The solution for the original Saints Row: The Third removes the black bars from 
 
 
 # Ravenlok ultrawide and wider
-![](/screenshots/Ravenlok.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/ravenlok/total?label=downloads&style=flat-square)
 
 The solution addresses the issue of big, misplaced and unreachable UI elements in ultrawide and wider.
@@ -628,7 +619,6 @@ The solution addresses the issue of big, misplaced and unreachable UI elements i
 
 
 # Gears of War: Ultimate Edition super ultrawide and wider
-![](/screenshots/GearsOfWarUltimateEdition.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/gearsofwarue/total?label=downloads&style=flat-square)
 
 The solution for Gears of War: Ultimate Edition enables 32:9 and wider support.
@@ -637,7 +627,6 @@ The solution for Gears of War: Ultimate Edition enables 32:9 and wider support.
 
 
 # The Elder Scrolls V: Skyrim Special Edition FOV changer
-![](/screenshots/SkyrimSE.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/skyrimse/total?label=downloads&style=flat-square)
 
 The plugin for Flawless Widescreen allows to separately control the field of view of the world and the hands model in real time.
@@ -646,7 +635,6 @@ The plugin for Flawless Widescreen allows to separately control the field of vie
 
 
 # Sherlock Holmes The Awakened ultrawide and wider
-![](/screenshots/SherlockHolmesTheAwakened.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/sherlockawakened/total?label=downloads&style=flat-square)
 
 The solution for Sherlock Holmes The Awakened removes the black bars from the game at ultrawide and wider resolutions while preserving the native vertical field of view.
@@ -655,7 +643,6 @@ The solution for Sherlock Holmes The Awakened removes the black bars from the ga
 
 
 # The Outer Worlds SCE widescreen and wider
-![](/screenshots/TheOuterWorldsSCE.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/outerworldssce/total?label=downloads&style=flat-square)
 
 The solution for The Outer Worlds: Spacer’s Choice Edition removes the black bars from the cutscenes and dialogue at any affected resolution. It also corrects the field of view and weapons model at 21:9 and wider.
@@ -664,7 +651,6 @@ The solution for The Outer Worlds: Spacer’s Choice Edition removes the black b
 
 
 # RAGE 2 ultrawide and wider
-![](/screenshots/RAGE2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/rage2/total?label=downloads&style=flat-square)
 
 The tool allows to remove the vertical black bars from the cutscenes at 21:9 and wider resolutions.
@@ -673,7 +659,6 @@ The tool allows to remove the vertical black bars from the cutscenes at 21:9 and
 
 
 # The Light in the Darkness ultrawide and wider
-![](/screenshots/TheLightInTheDarkness.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/tlitd/total?label=downloads&style=flat-square)
 
 The solution removes the black bars that appear in the game at 21:9 and wider resolutions.
@@ -682,7 +667,6 @@ The solution removes the black bars that appear in the game at 21:9 and wider re
 
 
 # Valfaris ultrawide and wider
-![](/screenshots/Valfaris.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/valfaris/total?label=downloads&style=flat-square)
 
 The solution enables the game to support 21:9 and wider resolutions without vertical black bars.
@@ -691,7 +675,6 @@ The solution enables the game to support 21:9 and wider resolutions without vert
 
 
 # We Are OFK ultrawide
-![](/screenshots/WeAreOFK.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/weareofk/total?label=downloads&style=flat-square)
 
 The mod for the game offers many fixes made to enable it to support ultrawide resolutions without black bars. It also unlocks the FPS from 30.
@@ -700,7 +683,6 @@ The mod for the game offers many fixes made to enable it to support ultrawide re
 
 
 # Far Cry 4 ultrawide and wider
-![](/screenshots/FarCry4.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/farcry4/total?label=downloads&style=flat-square)
 
 The solution enables the in-game field of view slider at ultrawide resolutions.
