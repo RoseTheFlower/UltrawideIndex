@@ -1,5 +1,14 @@
-#  Watch Dogs 2 ultrawide and wider
-![A 32:9 screenshot of Kane & Lynch 2: Dog Days](/screenshots/WatchDogs2.webp)
+# Teenage Mutant Ninja Turtles: Splintered Fate ultrawide
+![A 32:9 screenshot of Teenage Mutant Ninja Turtles: Splintered Fate](/screenshots/TMNTSplinteredFate.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/tmntsf/total?label=downloads&style=flat-square)
+
+The solution removes the vertical black bars, expanding the view in ultrawide.
+
+* [Download page and instructions](/../../releases/tag/tmntsf)
+
+
+# Watch Dogs 2 ultrawide and wider
+![A 32:9 screenshot of Watch Dogs 2](/screenshots/WatchDogs2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/watchdogs2/total?label=downloads&style=flat-square)
 
 The solution removes the black bars from the game's real-time cutscenes in ultrawide and wider.
