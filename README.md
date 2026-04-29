@@ -1,3 +1,12 @@
+#  Aphelion ultrawide and wider
+![A 32:9 screenshot of Aphelion](/screenshots/Aphelion.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/aphelion/total?label=downloads&style=flat-square)
+
+The solution removes the black bars affecting the gameplay view and cutscenes in ultrawide and wider.
+
+* [Download page and instructions](/../../releases/tag/aphelion)
+
+
 # Teenage Mutant Ninja Turtles: Splintered Fate ultrawide
 ![A 32:9 screenshot of Teenage Mutant Ninja Turtles: Splintered Fate](/screenshots/TMNTSplinteredFate.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/tmntsf/total?label=downloads&style=flat-square)
