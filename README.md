@@ -1,4 +1,13 @@
-#  Aphelion ultrawide and wider
+# The Thaumaturge ultrawide and wider
+![A 32:9 screenshot of The Thaumaturge](/screenshots/TheThaumaturge.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/thaumaturge/total?label=downloads&style=flat-square)
+
+The solution removes all black bars from cutscenes, dialogue and fight scenes.
+
+* [Download page and instructions](/../../releases/tag/thaumaturge)
+
+
+# Aphelion ultrawide and wider
 ![A 32:9 screenshot of Aphelion](/screenshots/Aphelion.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/aphelion/total?label=downloads&style=flat-square)
 
