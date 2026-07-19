@@ -1,3 +1,12 @@
+# Farlands ultrawide and more
+![A 32:9 screenshot of Farlands](/screenshots/Farlands.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/farlands/total?label=downloads&style=flat-square)
+
+The mod removes the black bars affecting all aspect ratios but 16:9 and corrects the scaling of videos in ultrawide.
+
+* [Download page and instructions](/../../releases/tag/farlands)
+
+
 # The Thaumaturge ultrawide and wider
 ![A 32:9 screenshot of The Thaumaturge](/screenshots/TheThaumaturge.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/thaumaturge/total?label=downloads&style=flat-square)
