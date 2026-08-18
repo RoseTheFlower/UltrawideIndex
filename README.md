@@ -1,3 +1,12 @@
+# The Sinking City 2 ultrawide and wider
+![A 32:9 screenshot of The Sinking City 2](/screenshots/TheSinkingCity2.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/thesinkingcity2/total?label=downloads&style=flat-square)
+
+The solution removes the black bars from cutscenes, menus and interaction scenes.
+
+* [Download page and instructions](/../../releases/tag/thesinkingcity2)
+
+
 # Farlands ultrawide and more
 ![A 32:9 screenshot of Farlands](/screenshots/Farlands.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/farlands/total?label=downloads&style=flat-square)
