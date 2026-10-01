@@ -1,3 +1,12 @@
+# End of Abyss ultrawide
+![A 32:9 screenshot of End of Abyss](/screenshots/EndOfAbyss.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/endofabyss/total?label=downloads&style=flat-square)
+
+The solution removes the black bars affecting resolutions other than 16:9.
+
+* [Download page and instructions](/../../releases/tag/endofabyss)
+
+
 # The Sinking City 2 ultrawide and wider
 ![A 32:9 screenshot of The Sinking City 2](/screenshots/TheSinkingCity2.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/thesinkingcity2/total?label=downloads&style=flat-square)
