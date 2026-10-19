@@ -2,7 +2,7 @@
 ![A 32:9 screenshot of Ape Out](/screenshots/ApeOut.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/apeout/total?label=downloads&style=flat-square)
 
-The mod enables ultrawide and wider support with no vertical black bars.
+The mod enables ultrawide and wider support with no black bars.
 
 * [Download page and instructions](/../../releases/tag/apeout)
 
