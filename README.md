@@ -1,3 +1,12 @@
+# Teenage Mutant Ninja Turtles: Shredder's Revenge ultrawide
+![A 32:9 screenshot of Teenage Mutant Ninja Turtles: Shredder's Revenge](/screenshots/TMNTShreddersRevenge.webp)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/tmntsr/total?label=downloads&style=flat-square)
+
+The solution makes the game support ultrawide resolutions, expanding the view.
+
+* [Download page and instructions](/../../releases/tag/tmntsr)
+
+
 # Ape Out ultrawide and wider
 ![A 32:9 screenshot of Ape Out](/screenshots/ApeOut.webp)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/RoseTheFlower/UltrawideIndex/apeout/total?label=downloads&style=flat-square)
@@ -5,6 +14,7 @@
 The mod enables ultrawide and wider support with no black bars.
 
 * [Download page and instructions](/../../releases/tag/apeout)
+
 
 # End of Abyss ultrawide
 ![A 32:9 screenshot of End of Abyss](/screenshots/EndOfAbyss.webp)
